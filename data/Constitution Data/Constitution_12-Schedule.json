@@ -1,0 +1,26 @@
+{
+  "schedule_number": 12,
+  "schedule_title": "Twelfth Schedule",
+  "article": "243W",
+  "entries": [
+    { "entry_number": 1, "subject": "Urban planning including town planning." },
+    { "entry_number": 2, "subject": "Regulation of land-use and construction of buildings." },
+    { "entry_number": 3, "subject": "Planning for economic and social development." },
+    { "entry_number": 4, "subject": "Roads and bridges." },
+    { "entry_number": 5, "subject": "Water supply for domestic, industrial and commercial purposes." },
+    { "entry_number": 6, "subject": "Public health, sanitation conservancy and solid waste management." },
+    { "entry_number": 7, "subject": "Fire services." },
+    { "entry_number": 8, "subject": "Urban forestry, protection of the environment and promotion of ecological aspects." },
+    { "entry_number": 9, "subject": "Safeguarding the interests of weaker sections of society, including the handicapped and mentally retarded." },
+    { "entry_number": 10, "subject": "Slum improvement and upgradation." },
+    { "entry_number": 11, "subject": "Urban poverty alleviation." },
+    { "entry_number": 12, "subject": "Provision of urban amenities and facilities such as parks, gardens, playgrounds." },
+    { "entry_number": 13, "subject": "Promotion of cultural, educational and aesthetic aspects." },
+    { "entry_number": 14, "subject": "Burials and burial grounds; cremations, cremation grounds; and electric crematoriums." },
+    { "entry_number": 15, "subject": "Cattle pounds; prevention of cruelty to animals." },
+    { "entry_number": 16, "subject": "Vital statistics including registration of births and deaths." },
+    { "entry_number": 17, "subject": "Public amenities including street lighting, parking lots, bus stops and public conveniences." },
+    { "entry_number": 18, "subject": "Regulation of slaughter houses and tanneries." }
+  ],
+  "footnote": "Twelfth Schedule added by the Constitution (Seventy-fourth Amendment) Act, 1992, s. 4 (w.e.f 1-6-1993)."
+}

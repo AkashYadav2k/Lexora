@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What should a woman do if she feels unsafe at home because of her partner's behavior (verbal, emotional, or physical abuse)?",
+    "merged_ids": [1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, 25, 27, 35, 47, 51, 55, 61, 67, 69, 77, 89, 97, 103, 109, 113, 129, 131, 141, 145, 147, 153, 165, 179, 211, 217, 221, 235, 239, 241, 243, 245, 249, 251, 253, 255, 259]
+  },
+  {
+    "id": 2,
+    "question": "Can a woman get help if her in-laws are threatening, harassing, or trying to force her out of her home?",
+    "merged_ids": [2, 4, 8, 10, 12, 14, 16, 18, 20, 24, 26, 28, 29, 32, 36, 38, 42, 44, 48, 52, 54, 56, 62, 68, 74, 86, 88, 90, 96, 98, 99, 108, 110, 118, 120, 122, 139, 142, 146, 156, 160, 172, 180, 182, 186, 194, 198, 199, 212, 220, 222, 228, 232, 234, 236, 238, 240]
+  },
+  {
+    "id": 6,
+    "question": "Can a woman get financial support if she leaves her home due to domestic violence?",
+    "merged_ids": [6, 58, 128, 140, 148, 154, 155, 164, 170, 260]
+  },
+  {
+    "id": 22,
+    "question": "Can a woman get help to keep her children safe if she's facing abuse from their father?",
+    "merged_ids": [22, 116, 174]
+  },
+  {
+    "id": 30,
+    "question": "What should a woman do if her partner is emotionally abusive and makes her feel worthless or belittled?",
+    "merged_ids": [30, 31, 57, 93, 100, 111, 121, 133, 157, 171, 175, 187, 229, 231]
+  },
+  {
+    "id": 34,
+    "question": "Can a woman get help from a doctor if she's been hurt by someone in her family?",
+    "merged_ids": [34, 158]
+  },
+  {
+    "id": 64,
+    "question": "Is there help available for women who are being pressured to give money or gifts (dowry) to their in-laws?",
+    "merged_ids": [64, 248]
+  },
+  {
+    "id": 72,
+    "question": "Can a woman get help to find a safe place to stay if she wants to leave an abusive relationship?",
+    "merged_ids": [72, 138]
+  },
+  {
+    "id": 87,
+    "question": "What can a woman do if her partner is being emotionally abusive or controlling her finances?",
+    "merged_ids": [87, 119, 227]
+  },
+  {
+    "id": 102,
+    "question": "Can a woman get help from someone to support her in court if she is facing domestic violence?",
+    "merged_ids": [102]
+  },
+  {
+    "id": 107,
+    "question": "What should a woman do if her partner tries to kick her out of their home during a fight?",
+    "merged_ids": [107, 127]
+  },
+  {
+    "id": 115,
+    "question": "What should a woman do if her partner is stalking her at work or school?",
+    "merged_ids": [115]
+  },
+  {
+    "id": 152,
+    "question": "Can a woman get back her belongings or money if she leaves an abusive relationship?",
+    "merged_ids": [152, 159]
+  },
+  {
+    "id": 200,
+    "question": "Is there a way for a woman to get help if she is being emotionally abused or controlled by her partner/spouse?",
+    "merged_ids": [200, 202]
+  }
+]

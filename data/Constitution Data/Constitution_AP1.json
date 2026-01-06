@@ -1,0 +1,32 @@
+{
+    "appendix_number": "I",
+    "title": "The Constitution (One Hundredth Amendment) Act, 2015",
+    "date": "28th May, 2015",
+    "sections": [
+        {
+            "section_number": 1,
+            "section_title": "Short Title",
+            "text": "This Act may be called the Constitution (One Hundredth Amendment) Act, 2015."
+        },
+        {
+            "section_number": 2,
+            "section_title": "Definitions",
+            "clauses": {
+                "a": "“acquired territory” means so much of the territories comprised in the India-Bangladesh agreement and its protocol and referred to in the First Schedule as are demarcated for the purpose of being acquired by India from Bangladesh in pursuance of the agreement and its protocol.",
+                "b": "“appointed day” means such date as the Central Government may, by notification in the Official Gazette, appoint as the date for acquisition of territories from Bangladesh and transfer of territories to Bangladesh in pursuance of the India-Bangladesh agreement and its protocol, after causing the territories to be so acquired and transferred as referred to in the First Schedule and Second Schedule.",
+                "c": "“India-Bangladesh agreement” means the agreement between the Government of the Republic of India and the Government of the People’s Republic of Bangladesh concerning the Demarcation of the Land Boundary between India and Bangladesh and Related Matters dated the 16th of May, 1974, and its subsequent protocols dated the 6th of December, 1974, the 30th of December, 1974, the 7th day of October, 1982, the 26th of March, 1992 and protocol to the agreement dated the 6th day of September, 2011, entered into between the Governments of India and Bangladesh, the relevant extracts of which are set out in the Third Schedule."
+            }
+        },
+        {
+            "section_number": 3,
+            "section_title": "Amendment of First Schedule to Constitution",
+            "text": "As from the appointed day, in the First Schedule to the Constitution:",
+            "clauses": {
+                "a": "For Assam: In the paragraph relating to the territories of the State of Assam, the words, brackets and figures 'and the territories referred to in Part I of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015' shall be added at the end.",
+                "b": "For West Bengal: In the paragraph relating to the territories of the State of West Bengal, the words, brackets and figures 'and also the territories referred to in Part III of the First Schedule but excluding the territories referred to in Part III of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015' shall be added at the end.",
+                "c": "For Meghalaya: In the paragraph relating to the territories of the State of Meghalaya, the words, brackets and figures 'and the territories referred to in Part I of the First Schedule but excluding the territories referred to in Part II of the Second Schedule to the Constitution (One Hundredth Amendment) Act, 2015' shall be added at the end.",
+                "d": "For Tripura: In the paragraph relating to the territories of the State of Tripura, the words, brackets and figures 'and the territories referred to in Part I of the First Schedule to the Constitution (One Hundredth Amendment) Act, 2015' shall be added at the end."
+            }
+        }
+    ]
+}

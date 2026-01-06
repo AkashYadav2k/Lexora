@@ -1,0 +1,36 @@
+{
+  "schedule_number": 8,
+  "title": "Eighth Schedule",
+  "articles": ["344(1)", "351"],
+  "subject": "Languages",
+  "entries": [
+    { "number": 1, "language": "Assamese" },
+    { "number": 2, "language": "Bengali" },
+    { "number": 3, "language": "Bodo" },
+    { "number": 4, "language": "Dogri" },
+    { "number": 5, "language": "Gujarati" },
+    { "number": 6, "language": "Hindi" },
+    { "number": 7, "language": "Kannada" },
+    { "number": 8, "language": "Kashmiri" },
+    { "number": 9, "language": "Konkani" },
+    { "number": 10, "language": "Maithili" },
+    { "number": 11, "language": "Malayalam" },
+    { "number": 12, "language": "Manipuri" },
+    { "number": 13, "language": "Marathi" },
+    { "number": 14, "language": "Nepali" },
+    { "number": 15, "language": "Odia" },
+    { "number": 16, "language": "Punjabi" },
+    { "number": 17, "language": "Sanskrit" },
+    { "number": 18, "language": "Santhali" },
+    { "number": 19, "language": "Sindhi" },
+    { "number": 20, "language": "Tamil" },
+    { "number": 21, "language": "Telugu" },
+    { "number": 22, "language": "Urdu" }
+  ],
+  "footnotes": [
+    "Inserted by the Constitution (Ninety-second Amendment) Act, 2003, s. 2 (w.e.f. 7-1-2004).",
+    "Added by the Constitution (Twenty-first Amendment) Act, 1967, s. 2 (w.e.f. 10-4-1967).",
+    "Entry renumbered by the Constitution (Ninety-second Amendment) Act, 2003, s. 2 (w.e.f. 7-1-2004).",
+    "Substituted by the Constitution (Ninety-sixth Amendment) Act, 2011, s. 2, for 'Oriya' (w.e.f. 23-9-2011)."
+  ]
+}

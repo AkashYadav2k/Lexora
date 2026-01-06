@@ -1,0 +1,160 @@
+{
+  "appendix": "I",
+  "schedules": [
+    {
+      "name": "The First Schedule",
+      "sections_referred": ["2(a)", "2(b)", "3"],
+      "parts": [
+        {
+          "part": "Part I",
+          "text": "The acquired territory in relation to Article 2 of the agreement dated the 16th day of May, 1974 and Article 3 (I)(b)(ii)(iii)(iv)(v) of the protocol dated the 6th day of September, 2011."
+        },
+        {
+          "part": "Part II",
+          "text": "The acquired territory in relation to Article 2 of the agreement dated the 16th day of May, 1974 and Article 3 (I)(c)(i) of the protocol dated the 6th day of September, 2011."
+        },
+        {
+          "part": "Part III",
+          "text": "The acquired territory in relation to Articles 1(2) and 2 of the agreement dated the 16th day of May, 1974 and Articles 2 (II), 3 (I)(a)(iii)(iv)(v)(vi) of the protocol dated the 6th day of September, 2011."
+        }
+      ]
+    },
+    {
+      "name": "The Second Schedule",
+      "sections_referred": ["2(b)", "2(d)", "3"],
+      "parts": [
+        {
+          "part": "Part I",
+          "text": "The transferred territory in relation to Article 2 of the agreement dated the 16th day of May, 1974 and Article 3 (I)(d)(i)(ii) of the protocol dated the 6th day of September, 2011."
+        },
+        {
+          "part": "Part II",
+          "text": "The transferred territory in relation to Article 2 of the agreement dated the 16th day of May, 1974 and Article 3 (I)(b)(i) of the protocol dated the 6th day of September, 2011."
+        },
+        {
+          "part": "Part III",
+          "text": "The transferred territory in relation to Articles 1(2) and 2 of the agreement dated the 16th day of May, 1974 and Articles 2 (II), 3 (I)(a)(ii)(iii)(iv)(vi) of the protocol dated the 6th day of September, 2011."
+        }
+      ]
+    },
+    {
+      "name": "The Third Schedule",
+      "sections_referred": ["2(c)"],
+      "parts": [
+        {
+          "part": "I",
+          "title": "Extracts from the Agreement between Government of the Republic of India and the Government of the People's Republic of Bangladesh concerning the Demarcation of the Land Boundary between India and Bangladesh and related matters dated the 16th day of May, 1974",
+          "articles": [
+            {
+              "article": "Article 1(12): Enclaves",
+              "text": "The Indian enclaves in Bangladesh and the Bangladesh enclaves in India should be exchanged expeditiously, excepting the enclaves mentioned in paragraph 14 without claim to compensation for the additional area going to Bangladesh."
+            },
+            {
+              "article": "Article 2",
+              "text": "The Governments of India and Bangladesh agree that territories in adverse possession in areas already demarcated in respect of which boundary strip maps are already prepared, shall be exchanged..."
+            }
+          ]
+        },
+        {
+          "part": "II",
+          "title": "Extracts from the Protocol to the Agreement between the Government of the Republic of India and the Government of the People's Republic of Bangladesh concerning the Demarcation of the Land Boundary between India and Bangladesh and related matters, dated the 6th day of September, 2011",
+          "articles": [
+            {
+              "article": "Article 2",
+              "text": "Article 1 Clause 12 of the 1974 Agreement shall be implemented as follows:",
+              "enclaves": {
+                "indian_enclaves_in_bangladesh": 111,
+                "bangladeshi_enclaves_in_india": 51,
+                "note": "Exchanged without claim to compensation, except for additional areas going to Bangladesh."
+              },
+              "boundary_adjustments": {
+                "West_Bengal_Sector": [
+                  {
+                    "name": "Bousmari – Madhugari (Kushitia-Nadia area)",
+                    "boundary": "From Boundary Pillar Nos. 154/5-S to 157/1-S along old course of River Mathabanga.",
+                    "agreement_date": "June, 2011"
+                  },
+                  {
+                    "name": "Andharokota (Kushitia-Nadia area)",
+                    "boundary": "From Boundary Pillar No. 152/5-S to 153/1-S following River Mathabanga.",
+                    "agreement_date": "June, 2011"
+                  },
+                  {
+                    "name": "Pakuria (Kushitia-Nadia area)",
+                    "boundary": "From Boundary Pillar No. 151/1-S to 152/2-S following River Mathabanga.",
+                    "agreement_date": "June, 2011"
+                  }
+                ],
+                "Meghalaya_Sector": [
+                  {
+                    "name": "Lobhachera-Nuncherra",
+                    "boundary": "From Boundary Pillar No. 1315/4-S to 1315/15-S ... boundary follows edge of tea gardens.",
+                    "agreement_date": "December, 2010"
+                  },
+                  {
+                    "name": "Pyrdiwah/Padua Area",
+                    "boundary": "From Boundary Pillar No. 1270/1-S to 1271/1-T.",
+                    "note": "Indian Nationals from Pyrdiwah village shall be allowed to draw water from Piyan River near Point No. 6 of the agreed Map."
+                  },
+                  {
+                    "name": "Lyngkhat Area",
+                    "sub_areas": [
+                      {
+                        "sub_name": "Lyngkhat-I/Kulmerchera and Lyngkhat-II/Kulmerchera",
+                        "boundary": "From Boundary Pillar No. 1264/4-S to 1265 and BP No. 1265/5-S to 1269/5-S as jointly surveyed and mutually agreed."
+                      },
+                      {
+                        "sub_name": "Lyngkhat-III/Sonairhat",
+                        "boundary": "From Boundary Pillar No. 1266/13-S along the nullah southwards till it meets another nullah east-west, then along the northern edge till it meets the International Boundary north of Reference Pillar Nos. 1267/4-R-B and 1267/3-R-I."
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Dawki/Tamabil Area",
+                    "boundary": "Straight line joining Boundary Pillar Nos. 1275/1-S to 1275/5-S.",
+                    "note": "Parties agree to fencing on 'zero line' in this area."
+                  },
+                  {
+                    "name": "Nailjuri/Sreepur Area",
+                    "sub_areas": [
+                      {
+                        "sub_name": "Nailjuri I",
+                        "boundary": "From Boundary Pillar No. 1277/2-S southwards, following the nullah up to plots, then eastwards till it meets a line drawn southwards from Boundary Pillar No. 1277/4-S."
+                      },
+                      {
+                        "sub_name": "Nailjuri III",
+                        "boundary": "Straight line from Boundary Pillar No. 1278/2-S to 1279/3-S."
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Muktapur/Dibir Hawor Area",
+                    "note": "Indian Nationals shall be allowed to visit Kali Mandir, draw water, and exercise fishing rights in the water body at Mukatpur/Dibir Hawor from the Indian side."
+                  }
+                ],
+                "Tripura_Sector": [
+                  {
+                    "name": "Chandannagar–Champanari Tea Garden area (Moulli Bazar sector)",
+                    "boundary": "Along Sonarai/Chhera river from Boundary Pillar No. 1904 to Boundary Pillar No. 1905.",
+                    "agreement_date": "July, 2011"
+                  }
+                ],
+                "Assam_Sector": [
+                  {
+                    "name": "Kalabari (Boroiabari) area in Assam sector",
+                    "boundary": "From Boundary Pillar No. 1066/24-T to Boundary Pillar No. 1067/16-T.",
+                    "agreement_date": "August, 2011"
+                  },
+                  {
+                    "name": "Pallathal area in Assam sector",
+                    "boundary": "From Boundary Pillar No. 1370/3-S to 1371/6-S to follow the outer edge of the tea garden and from Boundary Pillar No. 1372 to 1373/2-S along outer edge of the pan plantation."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

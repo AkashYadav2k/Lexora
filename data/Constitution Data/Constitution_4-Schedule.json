@@ -1,0 +1,167 @@
+{
+    "schedule_number": 4,
+    "title": "Fourth Schedule",
+    "articles": [
+        "4(1)",
+        "80(2)"
+    ],
+    "description": "Allocation of seats in the Council of States",
+    "states_and_union_territories": [
+        {
+            "id": 1,
+            "name": "Andhra Pradesh",
+            "seats": 11
+        },
+        {
+            "id": 2,
+            "name": "Telangana",
+            "seats": 7
+        },
+        {
+            "id": 3,
+            "name": "Assam",
+            "seats": 7
+        },
+        {
+            "id": 4,
+            "name": "Bihar",
+            "seats": 16
+        },
+        {
+            "id": 5,
+            "name": "Jharkhand",
+            "seats": 6
+        },
+        {
+            "id": 6,
+            "name": "Goa",
+            "seats": 1
+        },
+        {
+            "id": 7,
+            "name": "Gujarat",
+            "seats": 11
+        },
+        {
+            "id": 8,
+            "name": "Haryana",
+            "seats": 5
+        },
+        {
+            "id": 9,
+            "name": "Kerala",
+            "seats": 9
+        },
+        {
+            "id": 10,
+            "name": "Madhya Pradesh",
+            "seats": 11
+        },
+        {
+            "id": 11,
+            "name": "Chhattisgarh",
+            "seats": 5
+        },
+        {
+            "id": 12,
+            "name": "Tamil Nadu",
+            "seats": 18
+        },
+        {
+            "id": 13,
+            "name": "Maharashtra",
+            "seats": 19
+        },
+        {
+            "id": 14,
+            "name": "Karnataka",
+            "seats": 12
+        },
+        {
+            "id": 15,
+            "name": "Odisha",
+            "seats": 10
+        },
+        {
+            "id": 16,
+            "name": "Punjab",
+            "seats": 7
+        },
+        {
+            "id": 17,
+            "name": "Rajasthan",
+            "seats": 10
+        },
+        {
+            "id": 18,
+            "name": "Uttar Pradesh",
+            "seats": 31
+        },
+        {
+            "id": 19,
+            "name": "Uttarakhand",
+            "seats": 3
+        },
+        {
+            "id": 20,
+            "name": "West Bengal",
+            "seats": 16
+        },
+        {
+            "id": 21,
+            "name": "Nagaland",
+            "seats": 1
+        },
+        {
+            "id": 22,
+            "name": "Himachal Pradesh",
+            "seats": 3
+        },
+        {
+            "id": 23,
+            "name": "Manipur",
+            "seats": 1
+        },
+        {
+            "id": 24,
+            "name": "Tripura",
+            "seats": 1
+        },
+        {
+            "id": 25,
+            "name": "Meghalaya",
+            "seats": 1
+        },
+        {
+            "id": 26,
+            "name": "Sikkim",
+            "seats": 1
+        },
+        {
+            "id": 27,
+            "name": "Mizoram",
+            "seats": 1
+        },
+        {
+            "id": 28,
+            "name": "Arunachal Pradesh",
+            "seats": 1
+        },
+        {
+            "id": 29,
+            "name": "Delhi",
+            "seats": 3
+        },
+        {
+            "id": 30,
+            "name": "Puducherry",
+            "seats": 1
+        },
+        {
+            "id": 31,
+            "name": "Jammu and Kashmir",
+            "seats": 4
+        }
+    ],
+    "total_seats": 233
+}

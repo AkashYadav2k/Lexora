@@ -1,0 +1,842 @@
+{
+  "act_title": "The Protection of Women from Domestic Violence Act, 2005",
+  "act_number": "Act No. 43 of 2005",
+  "date_of_commencement": "13th September, 2005",
+  "preamble": "An Act to provide for more effective protection of the rights of women guaranteed under the Constitution who are victims of violence of any kind occurring within the family and for matters connected therewith or incidental thereto.",
+  "chapters": [
+    {
+      "chapter_number": "I",
+      "chapter_title": "Preliminary",
+      "sections": [
+        {
+          "section_number": "1",
+          "section_title": "Short title, extent and commencement",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "This Act may be called the Protection of Women from Domestic Violence Act, 2005."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "It extends to the whole of India."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint."
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Definitions",
+          "sub_sections": [
+            {
+              "sub_section_number": "(a)",
+              "term": "Aggrieved person",
+              "definition": "means any woman who is, or has been, in a domestic relationship with the respondent and who alleges to have been subjected to any act of domestic violence by the respondent."
+            },
+            {
+              "sub_section_number": "(b)",
+              "term": "Child",
+              "definition": "means any person below the age of eighteen years and includes any adopted, step or foster child."
+            },
+            {
+              "sub_section_number": "(c)",
+              "term": "Compensation order",
+              "definition": "means an order granted in terms of section 22."
+            },
+            {
+              "sub_section_number": "(d)",
+              "term": "Custody order",
+              "definition": "means an order granted in terms of section 21."
+            },
+            {
+              "sub_section_number": "(e)",
+              "term": "Domestic incident report",
+              "definition": "means a report made in the prescribed form on receipt of a complaint of domestic violence from an aggrieved person."
+            },
+            {
+              "sub_section_number": "(f)",
+              "term": "Domestic relationship",
+              "definition": "means a relationship between two persons who live or have lived together in a shared household and are related by consanguinity, marriage, or a relationship in the nature of marriage, adoption, or are family members living together as a joint family."
+            },
+            {
+              "sub_section_number": "(g)",
+              "term": "Dowry",
+              "definition": "shall have the same meaning as assigned in section 2 of the Dowry Prohibition Act, 1961."
+            },
+            {
+              "sub_section_number": "(h)",
+              "term": "Magistrate",
+              "definition": "means the Judicial Magistrate of the first class, or as the case may be, the Metropolitan Magistrate."
+            },
+            {
+              "sub_section_number": "(i)",
+              "term": "Medical facility",
+              "definition": "means such facility as may be notified by the State Government to be a medical facility for the purposes of this Act."
+            },
+            {
+              "sub_section_number": "(j)",
+              "term": "Monetary reliefs",
+              "definition": "means the compensation that the Magistrate may order the respondent to pay to the aggrieved person or her child under section 20."
+            },
+            {
+              "sub_section_number": "(k)",
+              "term": "Notification",
+              "definition": "means a notification published in the Official Gazette."
+            },
+            {
+              "sub_section_number": "(l)",
+              "term": "Prescribed",
+              "definition": "means prescribed by rules made under this Act."
+            },
+            {
+              "sub_section_number": "(m)",
+              "term": "Protection Officer",
+              "definition": "means an officer appointed by the State Government under section 8."
+            },
+            {
+              "sub_section_number": "(n)",
+              "term": "Protection order",
+              "definition": "means an order made in terms of section 18."
+            },
+            {
+              "sub_section_number": "(o)",
+              "term": "Residence order",
+              "definition": "means an order granted in terms of section 19."
+            },
+            {
+              "sub_section_number": "(p)",
+              "term": "Respondent",
+              "definition": "means any adult male person who is, or has been, in a domestic relationship with the aggrieved person."
+            },
+            {
+              "sub_section_number": "(q)",
+              "term": "Service provider",
+              "definition": "means an entity registered under section 10."
+            },
+            {
+              "sub_section_number": "(r)",
+              "term": "Shared household",
+              "definition": "means a household where the aggrieved person lives or has lived in a domestic relationship either singly or along with the respondent."
+            },
+            {
+              "sub_section_number": "(s)",
+              "term": "Shelter home",
+              "definition": "means any shelter home as may be notified by the State Government."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "chapter_title": "Domestic Violence",
+      "sections": [
+        {
+          "section_number": "3",
+          "section_title": "Definition of domestic violence",
+          "clauses": [
+            {
+              "clause_label": "(a)",
+              "text": "Harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical, of the aggrieved person or tends to do so."
+            },
+            {
+              "clause_label": "(b)",
+              "text": "Harasses, harms, injures or endangers the aggrieved person with a view to coerce her or any other person related to her to meet any unlawful demand for dowry or other property or valuable security."
+            },
+            {
+              "clause_label": "(c)",
+              "text": "Has the effect of threatening the aggrieved person or any person related to her."
+            },
+            {
+              "clause_label": "(d)",
+              "text": "Otherwise injures or causes harm, whether physical or mental, to the aggrieved person."
+            }
+          ],
+          "explanations": [
+            {
+              "explanation_number": "I",
+              "types": [
+                {
+                  "type": "physical abuse",
+                  "definition": "any act or conduct which is of such a nature as to cause bodily pain, harm, or danger to life, limb, or health or impair the health or development of the aggrieved person and includes assault, criminal intimidation and criminal force"
+                },
+                {
+                  "type": "sexual abuse",
+                  "definition": "includes any conduct of a sexual nature that abuses, humiliates, degrades or otherwise violates the dignity of woman"
+                },
+                {
+                  "type": "verbal and emotional abuse",
+                  "definition": "includes: (a) insults, ridicule, humiliation, name calling and insults or ridicule specially with regard to not having a child or a male child; and (b) repeated threats to cause physical pain to any person in whom the aggrieved person is interested"
+                },
+                {
+                  "type": "economic abuse",
+                  "definition": "includes: (a) deprivation of all or any economic or financial resources to which the aggrieved person is entitled under any law or custom whether payable under an order of a court or otherwise or which the aggrieved person requires out of necessity including, but not limited to, house hold necessities for the aggrieved person and her children, if any, stridhan, property, jointly or separately owned by the aggrieved person, payment of rental related to the shared house hold and maintenance; (b) disposal of household effects, any alienation of assets whether movable or immovable, valuables, shares, securities, bonds and the like or other property in which the aggrieved person has an interest or is entitled to use by virtue of the domestic relationship or which may be reasonably required by the aggrieved person or her children or her stridhan or any other property jointly or separately held by the aggrieved person; and (c) prohibition or restriction to continued access to resources or facilities which the aggrieved person is entitled to use or enjoy by virtue of the domestic relationship including access to the shared household"
+                }
+              ]
+            },
+            {
+              "explanation_number": "II",
+              "content": "For the purpose of determining whether any act, omission, commission or conduct of the respondent constitutes 'domestic violence' under this section, the overall facts and circumstances of the case shall be taken into consideration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "chapter_title": "Powers and Duties of Protection Officers, Services Providers, etc.",
+      "sections": [
+        {
+          "section_number": "4",
+          "section_title": "Information to Protection Officer and exclusion of liability of informant",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Any person who has reason to believe that an act of domestic violence has been, or is being, or is likely to be committed, may give information about it to the concerned Protection Officer."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "No liability, civil or criminal, shall be incurred by any person for giving in good faith of such information for the purpose of sub-section (1)."
+            }
+          ]
+        },
+        {
+          "section_number": "5",
+          "section_title": "Duties of police officers, service providers and Magistrate",
+          "text": "A police officer, Protection Officer, service provider or Magistrate who has received a complaint of domestic violence or is otherwise present at the place of an incident of domestic violence or when the incident of domestic violence is reported to him, shall inform the aggrieved person—",
+          "clauses": [
+            {
+              "clause_label": "(a)",
+              "text": "of her right to make an application for obtaining a relief by way of a protection order, an order for monetary relief, a custody order, a residence order, a compensation order or more than one such order under this Act;"
+            },
+            {
+              "clause_label": "(b)",
+              "text": "of the availability of services of service providers;"
+            },
+            {
+              "clause_label": "(c)",
+              "text": "of the availability of services of the Protection Officers;"
+            },
+            {
+              "clause_label": "(d)",
+              "text": "of her right to free legal services under the Legal Services Authorities Act, 1987;"
+            },
+            {
+              "clause_label": "(e)",
+              "text": "of her right to file a complaint under section 498A of the Indian Penal Code."
+            }
+          ],
+          "proviso": "Provided that nothing in this Act shall be construed in any manner as to relieve a police officer from his duty to proceed in accordance with law upon receipt of information as to the commission of a cognizable offence."
+        },
+        {
+          "section_number": "6",
+          "section_title": "Duties of shelter homes",
+          "text": "If an aggrieved person or on her behalf a Protection Officer or service provider requests the person in charge of a shelter home to provide shelter to her, such person in charge of the shelter home shall provide shelter to the aggrieved person in the shelter home."
+        },
+        {
+          "section_number": "7",
+          "section_title": "Duties of medical facilities",
+          "text": "If an aggrieved person or on her behalf a Protection Officer or service provider requests the person in charge of a medical facility to provide medical aid, such person in charge of the medical facility shall provide medical aid to the aggrieved person in such manner as may be prescribed."
+        },
+        {
+          "section_number": "8",
+          "section_title": "Appointment of Protection Officers",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "The State Government shall, by notification, appoint such number of Protection Officers in each district as it may consider necessary and shall also notify the area or areas within which a Protection Officer shall exercise the powers and perform the duties conferred on him by or under this Act."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The Protection Officers shall be as far as possible be women and shall possess such qualifications and experience as may be prescribed."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "The terms and conditions of service of the Protection Officer and the other officers subordinate to him shall be such as may be prescribed."
+            }
+          ]
+        },
+        {
+          "section_number": "9",
+          "section_title": "Duties and functions of Protection Officers",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "It shall be the duty of the Protection Officer—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "to assist the Magistrate in the discharge of his functions under this Act;"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "to make a domestic incident report to the Magistrate, in such form and in such manner as may be prescribed..."
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "to make an application in such form and manner as may be prescribed to the Magistrate, if the aggrieved person so desires, claiming relief for issuance of a protection order;"
+                },
+                {
+                  "clause_label": "(d)",
+                  "text": "to ensure that the aggrieved person is provided legal aid under the Legal Services Authorities Act, 1987..."
+                },
+                {
+                  "clause_label": "(e)",
+                  "text": "to maintain a list of all service providers providing legal aid or counselling, shelter homes and medical facilities in a local area within the jurisdiction of the Magistrate;"
+                },
+                {
+                  "clause_label": "(f)",
+                  "text": "to make available a safe shelter home, if the aggrieved person so requires and forward a copy of his report of lodging the aggrieved person in a shelter home to the police station and the Magistrate..."
+                },
+                {
+                  "clause_label": "(g)",
+                  "text": "to get the aggrieved person medically examined, if she has sustained bodily injuries..."
+                },
+                {
+                  "clause_label": "(h)",
+                  "text": "to ensure that the order for monetary relief under section 20 is complied with and executed..."
+                },
+                {
+                  "clause_label": "(i)",
+                  "text": "to perform such other duties as may be prescribed."
+                }
+              ]
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The Protection Officer shall be under the control and supervision of the Magistrate, and shall perform the duties imposed on him by the Magistrate and the Government, or by order, under this Act."
+            }
+          ]
+        },
+        {
+          "section_number": "10",
+          "section_title": "Service providers",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Subject to such rules as may be made in this behalf, any voluntary association registered under the Societies Registration Act, 1860 or a company registered under the Companies Act, 1956 or any other law for the time being in force, with the objective of protecting the rights and interests of women by providing legal aid, medical, financial or other assistance, may register itself with the State Government as a service provider for the purposes of this Act."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "A service provider registered under sub-section (1) shall have the power to—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "record the domestic incident report in the prescribed form if the aggrieved person so desires and forward a copy thereof to the Magistrate and the Protection Officer having jurisdiction in the area where the domestic violence took place;"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "get the aggrieved person medically examined and forward a copy of the medical report to the Protection Officer and the police station within whose jurisdiction the domestic violence took place;"
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "ensure that the aggrieved person is provided shelter in a shelter home, if she so requires and forward a report of lodging in the shelter home to the Magistrate and the Protection Officer having jurisdiction."
+                }
+              ]
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "No suit, prosecution or other legal proceeding shall lie against any member of the service provider or any person acting under the direction of the service provider, in respect of anything which is in good faith done or intended to be done under this Act."
+            }
+          ]
+        },
+        {
+          "section_number": "11",
+          "section_title": "Duties of Government",
+          "text": "The Central Government and every State Government, shall take all measures to ensure that—",
+          "clauses": [
+            {
+              "clause_label": "(a)",
+              "text": "the provisions of this Act are given wide publicity through public media including the television, radio and the print media at regular intervals;"
+            },
+            {
+              "clause_label": "(b)",
+              "text": "the Central Government and State Government officers including the police officers and the members of the judicial services are given periodic sensitisation and awareness training on the issues addressed by this Act;"
+            },
+            {
+              "clause_label": "(c)",
+              "text": "effective co-ordination between the services provided by concerned Ministries and Departments dealing with law, home affairs including law and order, health and human resources to address issues of domestic violence is established and periodical review of the same is conducted;"
+            },
+            {
+              "clause_label": "(d)",
+              "text": "protocols for the various Ministries concerned with the delivery of services to women under this Act including the courts are prepared and put in place."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "chapter_title": "Procedure for Obtaining Orders of Reliefs",
+      "sections": [
+        {
+          "section_number": "12",
+          "section_title": "Application to Magistrate",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The relief sought for under sub-section (1) may include a relief for issuance of an order for payment of compensation or damages without prejudice to the right of such person to institute a suit for compensation or damages for the injuries caused by the acts of domestic violence committed by the respondent."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "Every application under sub-section (1) shall be in such form and contain such particulars as may be prescribed or as nearly as possible thereto."
+            },
+            {
+              "sub_section_number": "(4)",
+              "text": "The Magistrate shall fix the first date of hearing, which shall not ordinarily be beyond three days from the date of receipt of the application by the court."
+            },
+            {
+              "sub_section_number": "(5)",
+              "text": "The Magistrate shall endeavour to dispose of every application made under sub-section (1) within a period of sixty days from the date of its first hearing."
+            }
+          ]
+        },
+        {
+          "section_number": "13",
+          "section_title": "Service of notice",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "A notice of the date of hearing fixed under section 12 shall be given by the Magistrate to the Protection Officer, who shall get it served by such means as may be prescribed on the respondent and on any other person as directed by the Magistrate within a maximum period of two days or such further reasonable time as may be allowed by the Magistrate from the date of its receipt."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "A declaration of service of notice made by the Protection Officer in such form as may be prescribed shall be the proof that such notice has been served upon the respondent and on any other person as directed by the Magistrate unless the contrary is proved."
+            }
+          ]
+        },
+        {
+          "section_number": "14",
+          "section_title": "Counselling",
+          "text": "The Magistrate may, at any stage of the proceedings under this Act, direct the respondent or the aggrieved person, either singly or jointly, to undergo counselling with any member of a service provider who possesses such qualifications and experience in counselling as may be prescribed."
+        },
+        {
+          "section_number": "15",
+          "section_title": "Assistance of welfare expert",
+          "text": "In any proceeding under this Act, the Magistrate may secure the services of such person, preferably a woman, whether related to the aggrieved person or not, including a person engaged in promoting family welfare, as he thinks fit, for the purpose of assisting him in discharging his functions."
+        },
+        {
+          "section_number": "16",
+          "section_title": "Proceedings to be held in camera",
+          "text": "If the Magistrate considers that the circumstances of the case so warrant, and if either party to the proceedings so desires, he may conduct the proceedings under this Act in camera."
+        },
+        {
+          "section_number": "17",
+          "section_title": "Right to reside in a shared household",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Notwithstanding anything contained in any other law for the time being in force, every woman in a domestic relationship shall have the right to reside in the shared household, whether or not she has any right, title or beneficial interest in the same."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The aggrieved person shall not be evicted or excluded from the shared household or any part of it by the respondent save in accordance with the procedure established by law."
+            }
+          ]
+        },
+        {
+          "section_number": "18",
+          "section_title": "Protection orders",
+          "text": "The Magistrate may, after giving the aggrieved person and the respondent an opportunity of being heard and on being prima facie satisfied that domestic violence has taken place or is likely to take place, pass a protection order in favour of the aggrieved person and prohibit the respondent from—",
+          "clauses": [
+            {
+              "clause_label": "(a)",
+              "text": "committing any act of domestic violence;"
+            },
+            {
+              "clause_label": "(b)",
+              "text": "aiding or abetting in the commission of acts of domestic violence;"
+            },
+            {
+              "clause_label": "(c)",
+              "text": "entering the place of employment of the aggrieved person or, if the person aggrieved is a child, its school or any other place frequented by the aggrieved person;"
+            },
+            {
+              "clause_label": "(d)",
+              "text": "attempting to communicate in any form, whatsoever, with the aggrieved person, including personal, oral or written or electronic or telephonic contact;"
+            },
+            {
+              "clause_label": "(e)",
+              "text": "alienating any assets, operating bank lockers or bank accounts used or held or enjoyed by both the parties, jointly by the aggrieved person and the respondent or singly by the respondent, including her stridhan or any other property held either jointly by the parties or separately by them without the leave of the Magistrate;"
+            },
+            {
+              "clause_label": "(f)",
+              "text": "causing violence to the dependants, other relatives or any person who give the aggrieved person assistance from domestic violence;"
+            },
+            {
+              "clause_label": "(g)",
+              "text": "committing any other act as specified in the protection order."
+            }
+          ]
+        },
+        {
+          "section_number": "19",
+          "section_title": "Residence orders",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "While disposing of an application under sub-section (1) of section 12, the Magistrate may pass a residence order—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "restraining the respondent from dispossessing or in any other manner disturbing the possession of the aggrieved person from the shared household, whether or not the respondent has a legal or equitable interest in the shared household;"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "directing the respondent to remove himself from the shared household;"
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "restraining the respondent or any of his relatives from entering any portion of the shared household in which the aggrieved person resides;"
+                },
+                {
+                  "clause_label": "(d)",
+                  "text": "restraining the respondent from alienating or disposing off the shared household or encumbering the same;"
+                },
+                {
+                  "clause_label": "(e)",
+                  "text": "restraining the respondent from renouncing his rights in the shared household except with the leave of the Magistrate;"
+                },
+                {
+                  "clause_label": "(f)",
+                  "text": "directing the respondent to secure same level of alternate accommodation for the aggrieved person as enjoyed by her in the shared household or to pay rent for the same, if the circumstances so require."
+                }
+              ],
+              "proviso": "Provided that no order under clause (b) shall be passed against any person who is a woman."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The Magistrate may impose any additional conditions or pass any other direction which he may deem reasonably necessary to protect or to provide for the safety of the aggrieved person or any child of such aggrieved person."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "The Magistrate may require from the respondent to execute a bond, with or without sureties, for preventing the commission of domestic violence."
+            },
+            {
+              "sub_section_number": "(4)",
+              "text": "An order under sub-section (3) shall be deemed to be an order under Chapter VIII of the Code of Criminal Procedure, 1973 and shall be dealt with accordingly."
+            },
+            {
+              "sub_section_number": "(5)",
+              "text": "While passing an order under sub-section (1), (2) or (3), the court may also pass an order directing the officer in charge of the nearest police station to give protection to the aggrieved person or to assist her or the person making an application on her behalf in the implementation of the order."
+            },
+            {
+              "sub_section_number": "(6)",
+              "text": "While making an order under sub-section (1), the Magistrate may impose on the respondent obligations relating to the discharge of rent and other payments, having regard to the financial needs and resources of the parties."
+            },
+            {
+              "sub_section_number": "(7)",
+              "text": "The Magistrate may direct the officer in charge of the police station in whose jurisdiction the Magistrate has been approached to assist in the implementation of the protection order."
+            },
+            {
+              "sub_section_number": "(8)",
+              "text": "The Magistrate may direct the respondent to return to the possession of the aggrieved person her stridhan or any other property or valuable security to which she is entitled."
+            }
+          ]
+        },
+        {
+          "section_number": "20",
+          "section_title": "Monetary reliefs",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "While disposing of an application under sub-section (1) of section 12, the Magistrate may direct the respondent to pay monetary relief to meet the expenses incurred and losses suffered by the aggrieved person and any child of the aggrieved person as a result of the domestic violence and such relief may include, but not be limited to,—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "the loss of earnings;"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "the medical expenses;"
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "the loss caused due to the destruction, damage or removal of any property from the control of the aggrieved person;"
+                },
+                {
+                  "clause_label": "(d)",
+                  "text": "the maintenance for the aggrieved person as well as her children."
+                }
+              ]
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The monetary relief granted under this section shall be adequate, fair and reasonable and consistent with the standard of living to which the aggrieved person is accustomed."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "The Magistrate shall have the power to order an appropriate lump sum payment or monthly payments of maintenance, as the nature and circumstances of the case may require."
+            },
+            {
+              "sub_section_number": "(4)",
+              "text": "The Magistrate shall send a copy of the order for monetary relief to the parties as well as to the officer in charge of the police station within the local limits of whose jurisdiction the respondent resides."
+            },
+            {
+              "sub_section_number": "(5)",
+              "text": "The respondent shall pay monetary relief granted to the aggrieved person within the period specified in the order."
+            },
+            {
+              "sub_section_number": "(6)",
+              "text": "Upon the failure on the part of the respondent to make payment in terms of the order, the Magistrate may direct the employer or a debtor of the respondent to directly pay to the aggrieved person or to deposit with the court a portion of the wages or salaries or debt due to or accrued to the credit of the respondent, which amount may be adjusted towards the monetary relief payable by the respondent."
+            }
+          ]
+        },
+        {
+          "section_number": "21",
+          "section_title": "Custody orders",
+          "text": "Notwithstanding anything contained in any other law for the time being in force, the Magistrate may, at any stage of hearing of the application for protection order or for any other relief under this Act, grant temporary custody of any child or children to the aggrieved person or the person making an application on her behalf and specify, if necessary, the arrangements for visit of such child or children by the respondent. Provided that if the Magistrate is of the opinion that any visit of the respondent may be harmful to the interests of the child or children, the Magistrate shall refuse to allow such visit."
+        },
+        {
+          "section_number": "22",
+          "section_title": "Compensation orders",
+          "text": "In addition to other reliefs as may be granted under this Act, the Magistrate may on an application being made by the aggrieved person, direct the respondent to pay compensation and damages for the injuries, including mental torture and emotional distress, caused by the acts of domestic violence committed by that respondent."
+        },
+        {
+          "section_number": "23",
+          "section_title": "Power to grant interim and ex parte orders",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "In any proceeding before him under this Act, the Magistrate may pass such interim order as he deems just and proper."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "If the Magistrate is satisfied that an application prima facie discloses that the respondent is committing, or has committed an act of domestic violence or that there is likelihood that the respondent may commit an act of domestic violence, he may grant an ex parte order on the basis of the affidavit in such form, as may be prescribed, of the aggrieved person under section 18, section 19, section 20, section 21, or as the case may be, section 22 against the respondent."
+            }
+          ]
+        },
+                {
+          "section_number": "24",
+          "section_title": "Court to give copies of order free of cost",
+          "text": "The Magistrate shall, in all cases where he has passed any order under this Act, order that a copy of such order, shall be given free of cost, to the parties to the application, the police officer in-charge of the police station in the jurisdiction of which the Magistrate has been approached, and also to the service provider located within the local limits of the jurisdiction of the court and if any service provider has registered a domestic incident report, to that service provider."
+        },
+        {
+          "section_number": "25",
+          "section_title": "Duration and alteration of orders",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "A protection order made under section 18 shall be in force till the aggrieved person applies for discharge."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "If the Magistrate, on an application from the aggrieved person or the respondent, is satisfied that there is a change in the circumstances requiring alteration, modification or revocation of any order made under this Act, he may, for reasons to be recorded in writing pass such order, as he may deem appropriate."
+            }
+          ]
+        },
+        {
+          "section_number": "26",
+          "section_title": "Relief in other suits and legal proceedings",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Any relief available under sections 18, 19, 20, 21 and 22 may also be sought in any legal proceeding, before a civil court, family court or a criminal court, affecting the aggrieved person and the respondent whether such proceeding was initiated before or after the commencement of this Act."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "Any relief referred to in sub-section (1) may be sought for in addition to and along with any other relief that the aggrieved person may seek in such suit or legal proceeding before a civil or criminal court."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "In case any relief has been obtained by the aggrieved person in any proceedings other than a proceeding under this Act, she shall be bound to inform the Magistrate of the grant of such relief."
+            }
+          ]
+        },
+                {
+          "section_number": "27",
+          "section_title": "Jurisdiction",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "The court of Judicial Magistrate of the first class or the Metropolitan Magistrate, as the case may be, within the local limits of which—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "the person aggrieved permanently or temporarily resides or carries on business or is employed; or"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "the respondent resides or carries on business or is employed; or"
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "the cause of action has arisen, shall be the competent court to grant a protection order and other orders under this Act and to try offences under this Act."
+                }
+              ]
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "Any order made under this Act shall be enforceable throughout India."
+            }
+          ]
+        },
+        {
+                      "section_number": "28",
+          "section_title": "Procedure",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Save as otherwise provided in this Act, all proceedings under sections 12, 18, 19, 20, 21, 22 and 23 and offences under section 31 shall be governed by the provisions of the Code of Criminal Procedure, 1973."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "Nothing in sub-section (1) shall prevent the court from laying down its own procedure for disposal of an application under section 12 or under sub-section (2) of section 23."
+            }
+
+          ]
+        },
+        {
+          "section_number": "29",
+          "section_title": "Appeal",
+          "text": "There shall lie an appeal to the Court of Session within thirty days from the date on which the order made by the Magistrate is served on the aggrieved person or the respondent, as the case may be, whichever is later."
+        }
+      ]
+    },
+
+
+    {
+      "chapter_number": "V",
+      "chapter_title": "Miscellaneous",
+      "sections": [
+        {
+          "section_number": "30",
+          "section_title": "Protection Officers and members of service providers to be public servants",
+          "text": "The Protection Officers and members of service providers, while acting or purporting to act in pursuance of any of the provisions of this Act or any rules or orders made thereunder shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code."
+        },
+        {
+          "section_number": "31",
+          "section_title": "Penalty for breach of protection order by respondent",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "A breach of protection order, or of an interim protection order, by the respondent shall be an offence under this Act and shall be punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "The offence under sub-section (1) shall as far as practicable be tried by the Magistrate who had passed the order, the breach of which has been alleged to have been caused by the accused."
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "While framing charges under sub-section (1), the Magistrate may also frame charges under section 498A of the Indian Penal Code or any other provision of that Code or the Dowry Prohibition Act, 1961, as the case may be, if the facts disclose the commission of an offence under those provisions."
+            }
+          ]
+        },
+        {
+          "section_number": "32",
+          "section_title": "Cognizance and proof",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the offence under sub-section (1) of section 31 shall be cognizable and non-bailable."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "Upon the sole testimony of the aggrieved person, the court may conclude that an offence under sub-section (1) of section 31 has been committed by the accused."
+            }
+          ]
+        },
+        {
+          "section_number": "33",
+          "section_title": "Penalty for not discharging duty by Protection Officer",
+          "text": "If any Protection Officer fails or refuses to discharge his duties as directed by the Magistrate in the protection order without any sufficient cause, he shall be liable to be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both."
+        },
+        {
+          "section_number": "34",
+          "section_title": "Cognizance of offence committed by Protection Officer",
+          "text": "No prosecution or other legal proceeding shall lie against the Protection Officer unless a complaint is filed with the previous sanction of the State Government or an officer authorized by it in this behalf."
+        },
+        {
+          "section_number": "35",
+          "section_title": "Protection of action taken in good faith",
+          "text": "No suit, prosecution or other legal proceeding shall lie against the Protection Officer or any member of service provider or any person for any damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act."
+        },
+        {
+          "section_number": "36",
+          "section_title": "Act not in derogation of any other law",
+          "text": "The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force."
+        },
+        {
+          "section_number": "37",
+          "section_title": "Power of Central Government to make rules",
+          "sub_sections": [
+            {
+              "sub_section_number": "(1)",
+              "text": "The Central Government may, by notification, make rules for carrying out the provisions of this Act."
+            },
+            {
+              "sub_section_number": "(2)",
+              "text": "In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—",
+              "clauses": [
+                {
+                  "clause_label": "(a)",
+                  "text": "the qualifications and experience of Protection Officers under sub-section (2) of section 8;"
+                },
+                {
+                  "clause_label": "(b)",
+                  "text": "the terms and conditions of service of the Protection Officers and the other officers subordinate to him, under sub-section (3) of section 8;"
+                },
+                {
+                  "clause_label": "(c)",
+                  "text": "the form and manner in which a domestic incident report may be made under clause (b) of sub-section (1) of section 9;"
+                },
+                {
+                  "clause_label": "(d)",
+                  "text": "the form and manner in which an application for protection order may be made to the Magistrate under clause (c) of sub-section (1) of section 9;"
+                },
+                {
+                  "clause_label": "(e)",
+                  "text": "the form in which a complaint is to be filed under clause (d) of sub-section (1) of section 9;"
+                },
+                {
+                  "clause_label": "(f)",
+                  "text": "the other duties to be performed by the Protection Officer under clause (i) of sub-section (1) of section 9;"
+                },
+                {
+                  "clause_label": "(g)",
+                  "text": "the rules regulating registration of service providers under sub-section (1) of section 10;"
+                },
+                {
+                  "clause_label": "(h)",
+                  "text": "the form in which an application under sub-section (1) of section 12 seeking reliefs under this Act may be made and the particulars which such application shall contain under sub-section (3) of that section;"
+                },
+                {
+                  "clause_label": "(i)",
+                  "text": "the means of serving notices under sub-section (1) of section 13;"
+                },
+                {
+                  "clause_label": "(j)",
+                  "text": "the form of declaration of service of notice to be made by the Protection Officer under sub-section (2) of section 13;"
+                },
+                {
+                  "clause_label": "(k)",
+                  "text": "the qualifications and experience in counselling which a member of the service provider shall possess under sub-section (1) of section 14;"
+                },
+                {
+                  "clause_label": "(l)",
+                  "text": "the form in which an affidavit may be filed by the aggrieved person under sub-section (2) of section 23;"
+                },
+                {
+                  "clause_label": "(m)",
+                  "text": "any other matter which has to be, or may be, prescribed."
+                }
+              ]
+            },
+            {
+              "sub_section_number": "(3)",
+              "text": "Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+  

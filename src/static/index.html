@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexora - Know Your Rights</title>
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <nav class="container">
+        <div class="logo">LEXORA</div>
+
+        <!-- Streamlit navigation -->
+        <a href="?page=app" class="try-btn">Try Lexora</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <div class="hero-images">
+        <div class="courthouse-image image-placeholder">
+            <img src="images/courthouse.png" alt="Courthouse Image">
+        </div>
+
+        <div class="justice-image image-placeholder">
+            <img src="images/JG1.png" alt="Lady Justice">
+        </div>
+    </div>
+
+    <div class="hero-content">
+        <h1>
+            Know your rights. Understand the law.<br>
+            Discover the <span class="truth">truth.</span>
+        </h1>
+
+        <p>
+            Say hi to <strong>Lexora</strong>, your simple way to understand your rights
+            and make smarter legal choices.
+        </p>
+
+        <div class="cta-buttons">
+            <!-- Go to main app (free 5 questions) -->
+            <a href="?page=login" class="btn-primary">Start now</a>
+
+            <a href="#what-is-lexora" class="btn-secondary">Learn more</a>
+        </div>
+    </div>
+</section>
+
+<section class="what-is-lexora" id="what-is-lexora">
+    <div class="section-images">
+        <div class="lady-justice-left image-placeholder scroll-animate">
+            <img src="images/jg2.png" alt="Lady Justice">
+        </div>
+
+        <div class="bull-statue-right image-placeholder scroll-animate">
+            <img src="images/demon.png" alt="Demon Statue">
+        </div>
+    </div>
+
+    <div class="what-is-lexora-content">
+        <h2>What is Lexora?</h2>
+
+        <p>
+            Lexora (pronounced <strong>/lek-soh-rah/</strong>) comes from the Latin word
+            <em>lex</em>, meaning law. Born from the belief that law should be understood
+            by everyone, Lexora simplifies complex legal systems using AI.
+            It transforms legal complexity into confidence — helping you understand
+            your rights, find reliable answers, and make meaningful decisions
+            <strong class="highlight">effortlessly.</strong>
+        </p>
+    </div>
+</section>
+
+<section class="testimonial-section">
+    <div class="container">
+        <h2>Voices from the Courtroom</h2>
+
+        <div class="testimonial-wrapper">
+
+            <div class="testimonial active">
+                <div class="testimonial-image">
+                    <img src="images/review.png" alt="Saul Goodman">
+                    <div class="testimonial-name">Saul</div>
+                </div>
+                <div class="testimonial-content">
+                    <p class="testimonial-text">
+                        If Lexora had existed when I started practicing, I'd have spent less
+                        time finding loopholes and more time closing cases. Winning isn’t
+                        theatrics — it’s clarity. Lexora gives you that edge.
+                    </p>
+                    <p class="testimonial-role">
+                        <strong>A flamboyant defense attorney</strong>
+                    </p>
+                </div>
+            </div>
+
+            <div class="testimonial">
+                <div class="testimonial-image">
+                    <img src="images/review2.png" alt="Harvey Specter">
+                    <div class="testimonial-name">Harvey</div>
+                </div>
+                <div class="testimonial-content">
+                    <p class="testimonial-text">
+                        In law, speed and strategy win. Lexora stays ten steps ahead,
+                        delivering precision when it matters most.
+                    </p>
+                    <p class="testimonial-role">
+                        <strong>A corporate closer from Manhattan</strong>
+                    </p>
+                </div>
+            </div>
+
+            <div class="testimonial">
+                <div class="testimonial-image">
+                    <img src="images/review3.png" alt="Kim Wexler">
+                    <div class="testimonial-name">Kim</div>
+                </div>
+                <div class="testimonial-content">
+                    <p class="testimonial-text">
+                        Law isn’t about noise. It’s about understanding. Lexora cuts through
+                        complexity and brings clarity back to justice.
+                    </p>
+                    <p class="testimonial-role">
+                        <strong>A principled attorney</strong>
+                    </p>
+                </div>
+            </div>
+
+            <div class="testimonial-nav">
+                <button class="nav-btn prev-btn">‹</button>
+                <button class="nav-btn next-btn">›</button>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- Scroll animation -->
+<script>
+const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+        }
+    });
+}, { threshold: 0.2 });
+
+document.querySelectorAll('.scroll-animate')
+    .forEach(el => observer.observe(el));
+</script>
+
+<!-- Testimonials -->
+<script>
+const testimonials = document.querySelectorAll('.testimonial');
+let currentIndex = 0;
+
+function showTestimonial(index) {
+    testimonials.forEach((t, i) =>
+        t.classList.toggle('active', i === index)
+    );
+}
+
+document.querySelector('.prev-btn').onclick = () => {
+    currentIndex = (currentIndex - 1 + testimonials.length) % testimonials.length;
+    showTestimonial(currentIndex);
+};
+
+document.querySelector('.next-btn').onclick = () => {
+    currentIndex = (currentIndex + 1) % testimonials.length;
+    showTestimonial(currentIndex);
+};
+</script>
+
+<!-- Smooth scroll -->
+<script>
+document.querySelector('.btn-secondary').addEventListener('click', e => {
+    e.preventDefault();
+    const target = document.querySelector('#what-is-lexora');
+    window.scrollTo({
+        top: target.offsetTop - 80,
+        behavior: 'smooth'
+    });
+});
+</script>
+
+</body>
+</html>

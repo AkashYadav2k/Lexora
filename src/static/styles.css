@@ -1,0 +1,697 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ===== FIXED HEADER ===== */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  backdrop-filter: blur(10px); /* elegant glass effect */
+  z-index: 1000;
+  padding: 20px 0;
+
+  transition: all 0.3s ease-in-out;
+  background: transparent;
+}
+
+/* Add a bit of spacing inside */
+nav.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Poppins', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(135deg, #f5f3f0 0%, #e8e5e0 100%);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: 2px;
+}
+
+.try-btn {
+    background: #1a1a1a;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.try-btn:hover {
+    background: #333;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    background: url("images/bg-texture.png") no-repeat center/cover;
+}
+
+/* container that holds both images */
+.hero-images {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* courthouse image */
+.courthouse-image {
+    width: 45%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    margin-left: -200px;
+    transform: translateY(90px); /* lifts the courthouse up a little */
+}
+
+.courthouse-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* lady justice */
+.justice-image {
+    width: 60%;
+    display: flex;
+    align-items: flex-right;
+    justify-content: flex-end;
+    margin-right: -330px;
+    transform: translateY(750px); /* brings statue down for perfect baseline */
+}
+
+.justice-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* text content */
+.hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 2000px;
+    background: transparent;
+    padding: 40px;
+    transform: translateY(-70px);
+}
+
+.hero h1 {
+    font-size: 54px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    color: #1E293B;
+    font-weight: 700;
+}
+
+.hero .truth {
+    color: #3B82F6;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #334155;
+    margin-bottom: 40px;
+    max-width: 1000px;
+    font-weight: 450;
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn-primary {
+    background: #1a1a1a;
+    color: white;
+    padding: 14px 32px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.btn-primary:hover {
+    background: #3B82F6;
+}
+
+.btn-secondary {
+    background: transparent;
+    color: #1a1a1a;
+    padding: 14px 32px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.btn-secondary:hover {
+    color: #3B82F6;
+}
+
+/* 🎯 WHAT IS LEXORA SECTION */
+.what-is-lexora {
+  position: relative;
+  background: radial-gradient(
+    circle at 0% 50%,         /* matches Figma’s gradient origin */
+    #FCF5ED 63%,               /* center warm beige */
+    #96928D 100%               /* outer neutral shadow */
+  );
+  min-height: 110vh;
+  padding: 120px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Text Content */
+.what-is-lexora-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    max-width: 800px;
+    transform: translateY(-100px);
+}
+
+.what-is-lexora h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 42px;
+    margin-bottom: 40px;
+    color: #0F172A;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.what-is-lexora p {
+    font-size: 22px;
+    line-height: 1.8;
+    color: #334155;
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.what-is-lexora .highlight {
+    color: #3B82F6;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Background Images */
+.section-images {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Lady Justice Left */
+.lady-justice-left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 52%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    margin-left: -40px;
+    transform: rotate(8deg) translateY(450px);
+}
+
+.lady-justice-left img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    max-width: none;
+    opacity: 0.1;
+    transform-origin: bottom center;
+}
+
+
+/* Bull / Demon Right */
+.bull-statue-right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 51%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: -100px;
+    opacity: 0.1;
+    transform: translateY(020px);
+}
+
+.bull-statue-right img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    max-width: none;
+
+}
+
+
+/* Default hidden state */
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(40px); /* slightly below */
+  transition: all 1s ease-out;
+}
+
+/* Visible state once in view */
+.scroll-animate.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Responsive Layout */
+@media (max-width: 1024px) {
+    .lady-justice-left {
+        width: 45%;
+        margin-left: 40px;
+        transform: translateY(120px);
+    }
+
+    .bull-statue-right {
+        width: 40%;
+        margin-right: 40px;
+        transform: translateY(160px);
+    }
+
+    .what-is-lexora-content {
+        max-width: 600px;
+    }
+}
+
+@media (max-width: 768px) {
+    .section-images {
+        display: none; /* hide images on smaller screens */
+    }
+
+    .what-is-lexora-content {
+        padding: 40px 20px;
+        max-width: 90%;
+    }
+
+    .what-is-lexora h2 {
+        font-size: 32px;
+    }
+
+    .what-is-lexora p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+}
+
+/* ===========================
+   🎤 TESTIMONIAL SECTION
+   =========================== */
+/* === Testimonial Section === */
+.testimonial-section {
+  padding: 120px 20px;
+  background: radial-gradient(circle at 30% 40%, #FCF5ED 60%, #96928D 100%);
+  text-align: center;
+}
+
+.testimonial-section h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 36px;
+  color: #0F172A;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 60px;
+}
+
+/* Wrapper */
+.testimonial-wrapper {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Individual testimonials */
+.testimonial {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  background: #FFFFFF;
+  padding: 60px;
+  border-radius: 20px;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.08);
+  gap: 40px;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.6s ease;
+}
+
+.testimonial.active {
+  display: flex;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Left: Image */
+.testimonial-image {
+  flex-shrink: 0;
+  width: 280px;
+  height: 380px;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
+.testimonial-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.testimonial-name {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 36px;
+  color: #FFF;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Right: Text */
+.testimonial-content {
+  flex: 1;
+  text-align: left;
+}
+
+.testimonial-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  line-height: 1.8;
+  color: #334155;
+  margin-bottom: 60px;
+  text-align: justify;
+}
+
+.testimonial-role {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 15px;
+  color: #334155;
+}
+
+/* === Navigation Buttons === */
+.testimonial-nav {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.nav-btn {
+  background: none;
+  color: #334155;
+  border: none;
+  font-size: 48px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  opacity: 0.6;
+}
+
+.nav-btn:hover {
+  opacity: 1;
+  color: #0F172A;
+}
+
+/* === Responsive === */
+@media (max-width: 900px) {
+  .testimonial {
+    flex-direction: column;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .testimonial-image {
+    width: 80%;
+    height: 320px;
+  }
+
+  .testimonial-nav {
+    top: auto;
+    bottom: -60px;
+  }
+
+  .nav-btn {
+    font-size: 36px;
+  }
+}
+
+
+
+
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .testimonial {
+    flex-direction: column;
+    padding: 40px 30px;
+  }
+
+  .testimonial-image {
+    width: 40%;
+    height: 300px;
+  }
+
+  .testimonial-content {
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+
+
+
+.lady-justice-left img {
+  animation: slideInFromLeft 1s ease-out 0.3s both;
+}
+
+.bull-statue-right img {
+  animation: slideInFromRight 1s ease-out 0.6s both;
+}
+
+
+
+
+
+
+/* Image placeholder styling */
+.image-placeholder {
+    border: 2px dashed #999;
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+    font-style: italic;
+    border: none !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+
+    .hero-images,
+    .section-images {
+        display: none;
+    }
+
+    .hero-content {
+        background: transparent;
+    }
+
+    .what-is-lexora h2,
+    .testimonial-section h2 {
+        font-size: 28px;
+    }
+
+    .testimonial {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .testimonial-image {
+        width: 200px;
+        height: 280px;
+    }
+
+    .testimonial-text {
+        text-align: left;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+
+/* 🔹 Slide in animations */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-150px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(150px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* 🔹 Apply animation to courthouse (left) */
+.courthouse-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  animation: slideInFromLeft 1s ease-out 1s both; /* ✅ duration, easing, delay */
+}
+
+/* 🔹 Apply animation to justice (right) */
+.justice-image img {
+  width: 95%;
+  height: auto;
+  object-fit: contain;
+  animation: slideInFromRight 1s ease-out 1s both;
+}
+
+/* 🔹 CTA buttons animation */
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 🔹 Apply animation to both CTA buttons */
+.cta-buttons a {
+  opacity: 0; /* hidden initially */
+  animation: fadeUp 0.8s ease-out 2s forwards; /* duration=0.8s, delay=2s, keep final state */
+}
+
+/* === Scroll animation (images only) === */
+/* === Scroll animation (images only) === */
+.scroll-animate {
+  opacity: 0;
+  transition: transform 2s cubic-bezier(0.25, 1, 0.5, 1), opacity 2s ease;
+}
+
+/* LADY JUSTICE — slides from left */
+
+
+
+.lady-justice-left.scroll-animate {
+  transform: translateX(-300px) translateY(450px) rotate(10deg); /* set Y + rotation here */
+}
+.lady-justice-left.scroll-animate.visible {
+  opacity: 0.9;
+  transform: translateX(-200px) translateY(450px) rotate(11deg);       /* ✅ only X changes now */
+  transition-delay: 1s;
+  transform-origin: bottom center;
+}
+
+/* DEMON — slides from right */
+.bull-statue-right.scroll-animate {
+  transform: translateX(380px) translateY(470px) rotate(-18deg);  /* set Y + rotation here */
+}
+.bull-statue-right.scroll-animate.visible {
+  opacity: 0.6;
+  transform: translateX(280px) translateY(470px) rotate(-18deg);      /* ✅ only X changes now */
+  transition-delay: 1s;
+  transform-origin: bottom center;
+}

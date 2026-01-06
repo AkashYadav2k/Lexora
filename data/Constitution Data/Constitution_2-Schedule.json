@@ -1,0 +1,190 @@
+{
+  "schedule_number": "2",
+  "title": "Second Schedule",
+  "linked_articles": [
+    "59(3)",
+    "65(3)",
+    "75(6)",
+    "97",
+    "125",
+    "148(3)",
+    "158(3)",
+    "164(5)",
+    "186",
+    "221"
+  ],
+  "parts": [
+    {
+      "part_label": "A",
+      "part_title": "Provisions as to the President and the Governors of States",
+      "clauses": [
+        {
+          "clause_number": "1",
+          "text": "There shall be paid to the President and to the Governors of the States the following emoluments per mensem, that is to say—",
+          "sub_clauses": [
+            { "sub_label": "The President", "text": "10,000 rupees" },
+            { "sub_label": "The Governor of a State", "text": "5,500 rupees" }
+          ],
+          "footnotes": [
+            "Now fifty lakh rupees, vide the Finance Act, 2018 (13 of 2018), s. 137.",
+            "Now three lakh fifty thousand rupees, by s.161, ibid. (w.e.f. 1-1-2016)."
+          ]
+        },
+        {
+          "clause_number": "2",
+          "text": "There shall also be paid to the President and to the Governors of the States such allowances as were payable respectively to the Governor-General of the Dominion of India and to the Governors of the corresponding Provinces immediately before the commencement of this Constitution.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "3",
+          "text": "The President and the Governors of the States throughout their respective terms of office shall be entitled to the same privileges...",
+          "footnotes": []
+        },
+        {
+          "clause_number": "4",
+          "text": "While the Vice-President or any other person is discharging the functions of, or is acting as, President, or any person is discharging the functions of the Governor...",
+          "footnotes": []
+        }
+      ],
+      "general_footnotes": [
+        "The words and letter 'specified in Part A of the First Schedule' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).",
+        "Part B omitted by s. 29 and Sch., ibid. (w.e.f. 1-11-1956)."
+      ]
+    },
+    {
+      "part_label": "C",
+      "part_title": "Provisions as to the Speaker and the Deputy Speaker of the House of the People and the Chairman and the Deputy Chairman of the Council of States and the Speaker and the Deputy Speaker of the Legislative Assembly and the Chairman and the Deputy Chairman of the Legislative Council of a State",
+      "clauses": [
+        {
+          "clause_number": "7",
+          "text": "There shall be paid to the Speaker of the House of the People and the Chairman of the Council of States such salaries and allowances as were payable to the Speaker of the Constituent Assembly of the Dominion of India immediately before the commencement of this Constitution, and there shall be paid to the Deputy Speaker of the House of the People and to the Deputy Chairman of the Council of States such salaries and allowances as were payable to the Deputy Speaker of the Constituent Assembly of the Dominion of India immediately before such commencement.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "8",
+          "text": "There shall be paid to the Speaker and the Deputy Speaker of the Legislative Assembly and to the Chairman and the Deputy Chairman of the Legislative Council of a State such salaries and allowances as were payable respectively to the Speaker and the Deputy Speaker of the Legislative Assembly and the President and the Deputy President of the Legislative Council of the corresponding Province immediately before the commencement of this Constitution, and where the corresponding Province had no Legislative Council immediately before such commencement, there shall be paid to the Chairman and the Deputy Chairman of the Legislative Council of the State such salaries and allowances as the Governor of the State may determine.",
+          "footnotes": []
+        }
+      ],
+      "general_footnotes": [
+        "The words and letter 'OF A STATE IN PART A OF THE FIRST SCHEDULE' omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).",
+        "Subs. by s. 29 and Sch., ibid., for 'ANY SUCH STATE'. (w.e.f. 1-11-1956).",
+        "The words 'of a State specified in Part A of the First Schedule' omitted by s. 29 and Sch., ibid. (w.e.f. 1-11-1956).",
+        "Subs. by s. 29 and Sch., ibid., for 'such State' (w.e.f. 1-11-1956)."
+      ]
+    },
+    {
+      "part_label": "D",
+      "part_title": "Provisions as to the Judges of the Supreme Court and of the High Courts",
+      "clauses": [
+        {
+          "clause_number": "9(1)",
+          "text": "There shall be paid to the Judges of the Supreme Court, in respect of time spent on actual service, salary at the following rates per mensem, that is to say—",
+          "sub_clauses": [
+            { "sub_label": "The Chief Justice", "text": "₹10,00,000 rupees." },
+            { "sub_label": "Any other Judge", "text": "₹9,00,000 rupees." }
+          ],
+          "additional_provisions": [
+            "Provided that if a Judge of the Supreme Court at the time of his appointment is in receipt of a pension ... his salary in respect of service in the Supreme Court shall be reduced—",
+            "(a) by the amount of that pension; and",
+            "(b) if he has received in lieu of a portion of the pension ... by the amount of that portion; and",
+            "(c) if he has received a retirement gratuity ... by the pension equivalent of that gratuity."
+          ],
+          "footnotes": []
+        },
+        {
+          "clause_number": "9(2)",
+          "text": "Every Judge of the Supreme Court shall be entitled without payment of rent to the use of an official residence.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "9(3)",
+          "text": "Special pay provisions for Judges of the Federal Court transitioning to the Supreme Court under Article 374.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "9(4)",
+          "text": "Every Judge of the Supreme Court shall receive such reasonable allowances for travelling on duty within India as the President may prescribe.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "9(5)",
+          "text": "Rights in respect of leave, pension and allowances of Supreme Court Judges shall follow those applicable to Judges of the Federal Court before commencement of the Constitution.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "10(1)",
+          "text": "There shall be paid to the Judges of High Courts salaries as follows—subject to pension adjustments.",
+          "sub_clauses": [
+            { "sub_label": "The Chief Justice", "text": "₹90,000 rupees." },
+            { "sub_label": "Any other Judge", "text": "₹80,000 rupees." }
+          ],
+          "adjustments": [
+            "(a) by the amount of pension received;",
+            "(b) by the commuted value of portion of pension, if taken;",
+            "(c) by the pension equivalent of retirement gratuity."
+          ],
+          "footnotes": []
+        },
+        {
+          "clause_number": "10(2)",
+          "text": "Transitional provisions for High Court Judges under Article 376, entitled to special pay if drawing higher salary before commencement.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "10(3)",
+          "text": "Transitional provisions for Chief Justices of States in Part B and Part A after the Constitution (Seventh Amendment) Act, 1956.",
+          "footnotes": []
+        },
+        {
+          "clause_number": "11",
+          "text": "Definitions for this Part.",
+          "sub_clauses": [
+            {
+              "sub_label": "(a)",
+              "text": "Chief Justice includes an acting Chief Justice; Judge includes an ad hoc Judge."
+            },
+            {
+              "sub_label": "(b)",
+              "text": "‘Actual service’ includes—",
+              "nested_sub_clauses": [
+                { "sub_label": "(i)", "text": "time spent on duty as Judge or at President’s request;" },
+                { "sub_label": "(ii)", "text": "vacations (excluding leave);" },
+                { "sub_label": "(iii)", "text": "joining time on transfer from High Court to Supreme Court or between High Courts." }
+              ]
+            }
+          ],
+          "footnotes": []
+        }
+      ],
+      "general_footnotes": [
+        "Amendments by Seventh Amendment Act, 1956 and Fifty-fourth Amendment Act, 1986 updated salaries and omitted references to Part A States.",
+        "Salaries revised by the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Act, 2018."
+      ]
+    },
+    {
+      "part_label": "E",
+      "part_title": "Provisions as to the Comptroller and Auditor-General of India",
+      "clauses": [
+        {
+          "clause_number": "12(1)",
+          "text": "There shall be paid to the Comptroller and Auditor-General of India a salary at the rate of four thousand rupees per mensem.",
+          "footnotes": [
+            "The Comptroller and Auditor-General of India shall be paid a salary equal to the salary of the Judges of the Supreme Court [vide s. 3 of the Comptroller and Auditor-General (Duties, Powers and Conditions of Service) Act, 1971]. Salaries raised to ₹2,50,000 by the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Act, 2018 (10 of 2018)."
+          ]
+        },
+        {
+          "clause_number": "12(2)",
+          "text": "The person holding office as Auditor-General of India immediately before commencement, who became the Comptroller and Auditor-General under Article 377, shall receive as special pay the difference between his previous salary and that specified in clause (1).",
+          "footnotes": []
+        },
+        {
+          "clause_number": "12(3)",
+          "text": "The rights in respect of leave, pension and conditions of service of the Comptroller and Auditor-General of India shall be governed by the provisions applicable to the Auditor-General of India before commencement; references to the Governor-General shall be construed as references to the President.",
+          "footnotes": []
+        }
+      ],
+      "general_footnotes": []
+    }
+  ]
+}

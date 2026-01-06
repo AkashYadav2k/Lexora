@@ -1,0 +1,238 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head_container a {
+    text-decoration: none;
+    color: inherit;
+}
+.head_container{
+      font-family: 'Cinzel', serif;
+      font-size: 32px;
+      font-weight: 600;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      backdrop-filter: blur(10px); /* elegant glass effect */
+      z-index: 1000;
+      padding: 20px 0px 0px 100px;
+
+      transition: all 0.3s ease-in-out;
+      background: transparent;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Poppins', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: #FCF5ED;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Container */
+.container {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 50px;
+    text-align: center;
+    animation: fadeIn 0.6s ease-out;
+}
+
+/* Logo */
+.logo {
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #1a1a2e;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
+
+/* Heading */
+h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #1a1a2e;
+    margin-bottom: 50px;
+    line-height: 1.2;
+}
+
+/* Subtitle */
+.subtitle {
+    font-size: 16px;
+    color: #4a4a5e;
+    margin-bottom: 40px;
+}
+
+/* Form Container */
+.form-container {
+    width: 100%;
+}
+
+/* Input Group */
+.input-group {
+    margin-bottom: 20px;
+}
+
+/* Input Fields */
+input {
+    width: 100%;
+    padding: 16px 20px;
+    border: 2px solid #e8e8f0;
+    border-radius: 50px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.7);
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+.no-acc {
+    padding: 16px;
+    font-size: 14px;
+
+}
+
+input::placeholder {
+    color: #9a9aaa;
+}
+
+input:focus {
+    border-color: #d8b8b8;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+input[type="email"] {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #4a4a5e;
+}
+
+/* Continue Button */
+.continue-btn {
+    width: 100%;
+    padding: 16px 20px;
+    background-color: #1a2332;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.continue-btn:hover {
+    background-color: #0f1720;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(26, 35, 50, 0.3);
+}
+
+.continue-btn:active {
+    transform: translateY(0);
+}
+
+/* Footer Links */
+.footer-links {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+}
+
+.footer-links a {
+    color: #9a9aaa;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #4a4a5e;
+}
+
+.footer-links span {
+    color: #d8d8e0;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design - Tablet */
+@media (max-width: 768px) {
+    .container {
+        max-width: 350px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}
+
+/* Responsive Design - Mobile */
+@media (max-width: 480px) {
+    .logo {
+        font-size: 28px;
+        margin-bottom: 40px;
+    }
+
+    h1 {
+        font-size: 26px;
+        margin-bottom: 35px;
+    }
+
+    .subtitle {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    input, .continue-btn {
+        padding: 14px 18px;
+        font-size: 15px;
+    }
+
+    .footer-links {
+        font-size: 12px;
+        bottom: 20px;
+    }
+}
+
+/* Small Mobile Devices */
+@media (max-width: 320px) {
+    .container {
+        max-width: 290px;
+    }
+
+    .logo {
+        font-size: 24px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
+    input, .continue-btn {
+        padding: 12px 16px;
+        font-size: 14px;
+    }
+}

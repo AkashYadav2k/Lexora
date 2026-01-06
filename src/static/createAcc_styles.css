@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins';
+    background-color: #FCF5ED;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head_container{
+      font-family: 'Cinzel', serif;
+      font-size: 32px;
+      font-weight: 600;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      backdrop-filter: blur(10px); /* elegant glass effect */
+      z-index: 1000;
+      padding: 20px 0px 0px 100px;
+
+      transition: all 0.3s ease-in-out;
+      background: transparent;
+}
+
+
+.container {
+    width: 100%;
+    max-width: 440px;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+}
+
+/* Logo */
+.logo {
+    font-size: 36px;
+    font-weight: 600;
+    color: #1A202C;
+    letter-spacing: 2px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+/* Login Container */
+.login-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    justify-content: center;
+}
+
+.login-title {
+    font-size: 32px;
+    font-weight: 600;
+    color: #1A202C;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.tagline {
+    font-size: 18px;
+    color: #4A5568;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+/* Form */
+.login-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+/* Google Button */
+.google-btn {
+    width: 100%;
+    padding: 14px 24px;
+    border: 1.5px solid #E2D8CC;
+    background-color: transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #2D3748;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.google-btn:hover {
+    background-color: #FFFFFF;
+    border-color: #CBD5E0;
+}
+
+.google-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Divider */
+.divider {
+    position: relative;
+    text-align: center;
+    margin: 20px 0;
+    color: #718096;
+    font-size: 14px;
+}
+
+.divider::before,
+.divider::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: calc(50% - 30px);
+    height: 1px;
+    background-color: #E2D8CC;
+}
+
+.divider::before {
+    left: 0;
+}
+
+.divider::after {
+    right: 0;
+}
+
+/* Email Input */
+.email-input {
+    width: 100%;
+    padding: 14px 24px;
+    border: 1.5px solid #E2D8CC;
+    background-color: transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    color: #2D3748;
+    transition: all 0.2s ease;
+}
+
+.email-input::placeholder {
+    color: #A0AEC0;
+}
+
+.email-input:focus {
+    outline: none;
+    border-color: #718096;
+    background-color: #FFFFFF;
+}
+
+/* Continue Button */
+.continue-btn {
+    width: 100%;
+    padding: 14px 24px;
+    background-color: #1A202C;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 8px;
+}
+
+.continue-btn:hover {
+    background-color: #2D3748;
+    transform: translateY(-1px);
+}
+
+.continue-btn:active {
+    transform: translateY(0);
+}
+
+/* Footer */
+footer {
+    margin-top: auto;
+    padding-top: 40px;
+}
+
+.footer-links {
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer-links a {
+    color: #718096;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+    color: #2D3748;
+}
+
+.separator {
+    color: #CBD5E0;
+    margin: 0 8px;
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    .container {
+        padding: 30px 20px;
+    }
+
+    .logo {
+        font-size: 28px;
+        margin-bottom: 40px;
+    }
+
+    .login-title {
+        font-size: 26px;
+    }
+
+    .tagline {
+        font-size: 16px;
+        margin-bottom: 36px;
+    }
+
+    .google-btn,
+    .email-input,
+    .continue-btn {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+}

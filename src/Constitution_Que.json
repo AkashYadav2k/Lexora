@@ -1,0 +1,1242 @@
+[
+  {
+    "id": 1,
+    "question": "What can happen to someone if they commit tax fraud or cheat on their taxes?",
+    "merged_ids": [1, 3, 7, 11, 17, 25, 35, 57, 77, 83, 85, 95, 115, 127, 169, 175, 179, 185, 195, 199, 211, 215, 221, 223, 229, 239, 267, 281, 297, 341, 367, 397, 413, 443, 463, 469, 477, 505, 519, 521, 549, 597, 611, 639, 652, 659, 667, 687, 707, 711, 733, 761, 801, 811, 857, 867, 875, 903, 913, 933, 953, 1053, 1097, 1268, 1271, 1279, 1286, 1306, 1489, 1519, 1593, 1611, 1615, 1641, 1663, 1679, 1708, 1757, 1781, 1828, 1857, 1929, 2031, 2099, 2124, 2146, 2180, 2204, 2227, 2256, 2265, 2266, 2269, 2273, 2276, 2281, 2283, 2293, 2295, 2297, 2307, 2376, 2379, 2380, 2385, 2387, 2390, 2393, 2397, 2403, 2404, 2405, 2406, 2409, 2410, 2515, 2519, 2523]
+  },
+  {
+    "id": 2,
+    "question": "Can a politician be punished for misusing their power to benefit themselves or others?",
+    "merged_ids": [2, 4, 6, 10, 12, 16, 20, 22, 24, 28, 42, 46, 48, 50, 52, 54, 58, 60, 66, 68, 74, 80, 90, 92, 94, 100, 102, 110, 111, 122, 124, 125, 128, 134, 138, 142, 144, 150, 154, 162, 168, 172, 174, 182, 184, 194, 196, 200, 205, 212, 214, 216, 218, 224, 240, 242, 244, 247, 252, 268, 272, 274, 292, 306, 307, 314, 326, 330, 332, 352, 360, 366, 372, 382, 384, 388, 391, 398, 406, 422, 424, 426, 428, 430, 432, 440, 460, 480, 496, 502, 506, 510, 512, 520, 524, 532, 548, 550, 558, 588, 590, 598, 612, 614, 618, 620, 622, 630, 650, 658, 666, 668, 670, 678, 682, 688, 694, 695, 702, 708, 712, 716, 718, 732, 736, 738, 750, 752, 760, 762, 764, 772, 790, 794, 798, 806, 808, 812, 814, 820, 834, 838, 844, 846, 850, 854, 876, 878, 880, 884, 890, 896, 902, 906, 914, 928, 948, 956, 958, 960, 969, 995, 1028, 1030, 1060, 1068, 1096, 1098, 1108, 1116, 1124, 1127, 1139, 1143, 1152, 1156, 1166, 1168, 1172, 1177, 1178, 1182, 1183, 1184, 1188, 1192, 1194, 1198, 1206, 1209, 1218, 1228, 1229, 1234, 1236, 1238, 1261, 1303, 1305, 1314, 1316, 1331, 1335, 1341, 1342, 1345, 1351, 1357, 1363, 1364, 1366, 1369, 1370, 1372, 1379, 1383, 1384, 1397, 1403, 1413, 1423, 1427, 1432, 1433, 1464, 1468, 1476, 1491, 1502, 1506, 1508, 1511, 1515, 1520, 1522, 1523, 1528, 1531, 1540, 1556, 1560, 1570, 1571, 1581, 1584, 1588, 1594, 1598, 1599, 1614, 1616, 1618, 1626, 1634, 1640, 1662, 1664, 1678, 1683, 1692, 1694, 1697, 1698, 1714, 1738, 1740, 1752, 1753, 1754, 1755, 1756, 1763, 1764, 1768, 1770, 1771, 1773, 1774, 1776, 1777, 1783, 1786, 1788, 1799, 1800, 1802, 1812, 1820, 1824, 1834, 1841, 1846, 1886, 1898, 1902, 1906, 1914, 1916, 1918, 1924, 1925, 1931, 1937, 1941, 1942, 1956, 1957, 1958, 1959, 1966, 1976, 1984, 1986, 1990, 1991, 1992, 1994, 1998, 2010, 2011, 2040, 2050, 2051, 2052, 2053, 2057, 2058, 2066, 2068, 2074, 2078, 2098, 2111, 2120, 2129, 2140, 2154, 2178, 2192, 2205, 2223, 2226, 2242, 2244, 2246, 2248, 2249, 2252, 2253, 2270, 2274, 2288, 2292, 2294, 2308, 2312, 2314, 2320, 2328, 2336, 2362, 2366, 2367, 2370, 2372, 2408, 2432, 2435, 2437, 2438, 2452, 2490, 2512, 2520, 2522]
+  },
+  {
+    "id": 5,
+    "question": "What rights do I have if the police wrongfully arrest me or violate my rights?",
+    "merged_ids": [5, 29, 37, 51, 70, 71, 75, 137, 149, 237, 265, 399, 423, 437, 497, 545, 771, 795, 856, 868, 870, 937, 1014, 1017, 1018, 1036, 1045, 1046, 1065, 1210, 1230, 1267, 1269, 1275, 1277, 1281, 1283, 1284, 1290, 1298, 1307, 1340, 1407, 1435, 1439, 1443, 1459, 1462, 1484, 1530, 1579, 1610, 1700, 1732, 1775, 1784, 1790, 1796, 1882, 1892, 2012, 2064, 2147, 2148, 2153, 2168, 2260, 2537]
+  },
+  {
+    "id": 8,
+    "question": "Can a police officer be held accountable for abusing their power?",
+    "merged_ids": [8, 14, 34, 96, 104, 176, 180, 256, 276, 278, 318, 346, 358, 436, 450, 482, 488, 492, 526, 554, 561, 566, 586, 638, 644, 646, 664, 734, 894, 900, 916, 934, 1050, 1056, 1064, 1254, 1264, 1285, 1294, 1466, 1474, 1483, 1488, 1504, 1854, 2042, 2232, 2301, 2302, 2418, 2444, 2530, 2532, 2536, 2552]
+  },
+  {
+    "id": 13,
+    "question": "What happens if someone lies under oath in court?",
+    "merged_ids": [13, 21, 109, 119, 147, 226, 323, 375, 441, 573, 735, 787, 1109, 1137, 1140, 1143, 1145, 1146, 1214, 1262, 1438, 1445, 1475, 1769, 1802, 2009, 2441, 2443]
+  },
+  {
+    "id": 19,
+    "question": "What happens if someone hurts another person on purpose?",
+    "merged_ids": [19, 53, 63, 73, 213, 381, 849, 1095, 1233, 1293, 1431, 1487, 1599, 1791, 1833, 1911, 1953, 1975, 2255, 2432]
+  },
+  {
+    "id": 26,
+    "question": "Can the government take away my rights if I protest against a policy?",
+    "merged_ids": [26, 265, 868, 1210, 2012, 2152, 2320, 2422]
+  },
+  {
+    "id": 30,
+    "question": "Can citizens challenge a law they believe is unfair or violates their rights?",
+    "merged_ids": [30, 232, 546, 725, 781, 785, 830, 833, 837, 909, 911, 912, 963, 964, 983, 984, 987, 997, 998, 1038, 1039, 1041, 1045, 1046, 1047, 1048, 1058, 1078, 1230, 1298, 1340, 1407, 1469, 1530, 1576, 1610, 1700, 1746, 1790, 1796, 1882, 1892, 2064, 2260, 2440]
+  },
+  {
+    "id": 31,
+    "question": "What happens if someone uses fake documents to get a loan or benefit?",
+    "merged_ids": [31, 101, 112, 140, 248, 286, 308, 315, 364, 407, 421, 451, 498, 623, 625, 629, 635, 748, 769, 822, 852, 893, 986, 988, 996, 1113, 1140, 1196, 1214, 1262, 1404, 1496, 1507, 1595, 1684, 1712, 1774, 1778, 1802, 1841, 1902, 1925, 1956, 1959, 2031, 2177, 2179, 2229, 2237, 2276, 2410, 2510]
+  },
+  {
+    "id": 41,
+    "question": "What happens if someone lies on a government form or application?",
+    "merged_ids": [41, 112, 140, 248, 286, 308, 364, 407, 421, 451, 498, 623, 625, 629, 748, 769, 822, 852, 893, 986, 988, 996, 1113, 1140, 1196, 1214, 1262, 1353, 1404, 1496, 1507, 1595, 1684, 1712, 1774, 1778, 1802, 1841, 1902, 1925, 1956, 2031, 2177, 2229, 2237, 2276, 2410, 2510, 2549]
+  },
+  {
+    "id": 47,
+    "question": "What happens if someone spreads false information about another person online?",
+    "merged_ids": [47, 1009, 1883, 2291]
+  },
+  {
+    "id": 55,
+    "question": "What are the consequences if someone is caught lying in a legal document?",
+    "merged_ids": [55, 407, 516, 625, 629, 769, 1684, 1712, 2177]
+  },
+  {
+    "id": 72,
+    "question": "Can the government take my land without paying me a fair price?",
+    "merged_ids": [72, 786, 983, 1035, 1037, 1062, 1302, 1346, 1412, 1622, 1633, 1638, 1699, 1719, 1720, 1724, 1731, 1733, 1808, 1827, 1871, 2082, 2125, 2147, 2150, 2158, 2162, 2168, 2170, 2209, 2329, 2331, 2360, 2380, 2382, 2384, 2386, 2388, 2400, 2454, 2506, 2509]
+  },
+  {
+    "id": 91,
+    "question": "What can happen to me if I break a law in India, like stealing something or hurting someone?",
+    "merged_ids": [91, 381, 575, 849, 1145, 1293, 1607, 1791, 1893, 1904, 1953, 2255, 2259, 2419]
+  },
+  {
+    "id": 103,
+    "question": "What can I do if someone is using my personal information without my permission?",
+    "merged_ids": [103, 1009, 2165, 2166]
+  },
+  {
+    "id": 206,
+    "question": "Can a politician be removed from office for not following the rules of the Constitution?",
+    "merged_ids": [206, 360, 1105, 1115, 1172, 1199, 1200, 1364, 1366, 1392, 1536, 1764, 1800, 1820, 1966]
+  },
+  {
+    "id": 217,
+    "question": "What are the consequences if someone is caught taking bribes while working for the government?",
+    "merged_ids": [217, 225, 231, 347, 363, 408, 429, 658, 1177, 1183, 1209, 2191, 2288, 2302, 2366, 2520]
+  },
+  {
+    "id": 219,
+    "question": "What happens if someone misuses their power as a government official?",
+    "merged_ids": [219, 471, 651, 784, 968, 1028, 1030, 1116, 1124, 1139, 1166, 1229, 1236, 1260, 1261, 1291, 1357, 1427, 1470, 1531, 1640, 1753, 1763, 1771, 1773, 2053, 2054, 2167, 2169, 2223, 2253, 2294, 2314, 2328, 2336, 2435, 2437, 2512]
+  },
+  {
+    "id": 220,
+    "question": "Can I be punished for not paying my taxes on time?",
+    "merged_ids": [220, 559, 603, 696, 726, 828, 1227, 1286, 1593, 1611, 1615, 1663, 1679, 2273, 2295, 2307, 2368, 2373, 2377, 2379, 2385, 2391, 2397, 2403, 2513, 2519]
+  },
+  {
+    "id": 269,
+    "question": "What can happen to someone who takes money from a government project without permission?",
+    "merged_ids": [269, 449, 575, 788, 1145, 1219, 1351, 1413, 1417, 1419, 1420, 1515, 1523, 1581, 1657, 1697, 2051, 2253, 2367]
+  },
+  {
+    "id": 347,
+    "question": "What happens if someone tries to bribe a police officer?",
+    "merged_ids": [347, 1183, 2191, 2288, 2302]
+  },
+  {
+    "id": 459,
+    "question": "What happens if a law is changed but someone is punished under the old law?",
+    "merged_ids": [459, 193, 1743, 1744]
+  },
+  {
+    "id": 749,
+    "question": "What happens if someone is unfairly treated because of their caste or community?",
+    "merged_ids": [749, 751, 781, 785, 999, 1001, 1002, 1003, 1807, 1819, 1825, 1835, 1837, 1927]
+  },
+  {
+    "id": 755,
+    "question": "What happens if someone takes away my property without my permission?",
+    "merged_ids": [755, 963, 983, 1037, 1723, 1724, 1827, 2153, 2329, 2331]
+  },
+  {
+    "id": 782,
+    "question": "Can I report a government official if they misuse their power to benefit themselves?",
+    "merged_ids": [782, 1066, 1310, 1509, 1692, 1698, 1824]
+  },
+  {
+    "id": 965,
+    "question": "What happens if someone from another country tries to take over part of India?",
+    "merged_ids": [965, 2103, 2104, 2105, 2106, 2133, 2134]
+  },
+  {
+    "id": 966,
+    "question": "Can a state government change its borders or territory without permission?",
+    "merged_ids": [966, 967, 971, 972, 974, 977, 2091, 2093, 2095, 2097]
+  },
+  {
+    "id": 970,
+    "question": "Can someone be punished for not paying their taxes on purpose?",
+    "merged_ids": [970, 472, 562, 652, 672, 938, 1306, 2180]
+  },
+  {
+    "id": 973,
+    "question": "Can a new law be made without the President's approval?",
+    "merged_ids": [973, 1042, 1164, 1216, 1239, 1240, 1408, 1434, 1500, 1629, 1630, 1851, 1852, 1972, 1974]
+  },
+  {
+    "id": 981,
+    "question": "What happens if someone is born in India but their parents are not Indian citizens?",
+    "merged_ids": [981, 982, 985, 989, 990, 991, 992, 993, 2137, 2138]
+  },
+  {
+    "id": 1005,
+    "question": "What happens if someone practices untouchability or discriminates against others?",
+    "merged_ids": [1005, 1006, 1789]
+  },
+  {
+    "id": 1007,
+    "question": "Can a government employee accept a gift or money from another country without permission?",
+    "merged_ids": [1007, 1008]
+  },
+  {
+    "id": 1012,
+    "question": "Can I be punished for the same crime if I have already been found not guilty?",
+    "merged_ids": [1012, 1011]
+  },
+  {
+    "id": 1015,
+    "question": "What happens if a child can't go to school because of money problems?",
+    "merged_ids": [1015, 1079, 1080]
+  },
+  {
+    "id": 1019,
+    "question": "What happens if someone forces me to work without paying me?",
+    "merged_ids": [1019, 1020]
+  },
+  {
+    "id": 1021,
+    "question": "What can be done if someone is using child labor in a factory?",
+    "merged_ids": [1021, 1022]
+  },
+  {
+    "id": 1023,
+    "question": "What are the rules about practicing my religion freely in India?",
+    "merged_ids": [1023, 1024, 1026]
+  },
+  {
+    "id": 1025,
+    "question": "Can a religious group start its own school or hospital?",
+    "merged_ids": [1025, 1033, 1034]
+  },
+  {
+    "id": 1027,
+    "question": "Can the government make me pay taxes to support a religion I don't believe in?",
+    "merged_ids": [1027, 1029]
+  },
+  {
+    "id": 1031,
+    "question": "What rights do people have if they speak a different language or have a unique culture in India?",
+    "merged_ids": [1031, 1428, 1843, 1844, 1853, 1855, 1856]
+  },
+  {
+    "id": 1032,
+    "question": "Can a school refuse to admit a student because of their religion or race?",
+    "merged_ids": [1032, 1001, 1003]
+  },
+  {
+    "id": 1049,
+    "question": "Can the government take away my rights if I am in the military or police?",
+    "merged_ids": [1049, 2107, 2108]
+  },
+  {
+    "id": 1051,
+    "question": "What happens if someone gets hurt during a protest while martial law is in place?",
+    "merged_ids": [1051, 1052]
+  },
+  {
+    "id": 1059,
+    "question": "What does the Constitution say about making sure everyone gets a fair chance in life?",
+    "merged_ids": [1059, 1061, 1081, 1082, 1004, 1817, 1818]
+  },
+  {
+    "id": 1063,
+    "question": "What can I do if I can't afford a lawyer to help me with my case?",
+    "merged_ids": [1063, 1067]
+  },
+  {
+    "id": 1069,
+    "question": "What rights do workers have to ensure they are treated fairly at their jobs?",
+    "merged_ids": [1069, 1071, 1073, 1074, 2471, 2472, 2497, 2498]
+  },
+  {
+    "id": 1070,
+    "question": "What support is available for women who are pregnant and working?",
+    "merged_ids": [1070, 2469, 2470]
+  },
+  {
+    "id": 1072,
+    "question": "Can the government help workers in rural areas start their own businesses?",
+    "merged_ids": [1072, 1075, 1076]
+  },
+  {
+    "id": 1083,
+    "question": "What is the government's role in making sure people eat well and stay healthy?",
+    "merged_ids": [1083, 1084, 2309, 2310]
+  },
+  {
+    "id": 1085,
+    "question": "What should I do if someone is harming animals or treating them badly?",
+    "merged_ids": [1085, 2325, 2326, 2451]
+  },
+  {
+    "id": 1086,
+    "question": "Can the government stop farmers from using harmful chemicals on their crops?",
+    "merged_ids": [1086, 2323, 2324, 2481, 2482]
+  },
+  {
+    "id": 1087,
+    "question": "What does the Constitution say about protecting the environment and wildlife?",
+    "merged_ids": [1087, 1088, 2453, 2454, 2455, 2456]
+  },
+  {
+    "id": 1089,
+    "question": "What happens if someone damages a historical monument or place?",
+    "merged_ids": [1089, 2235, 2236, 2505, 2506, 2319]
+  },
+  {
+    "id": 1091,
+    "question": "What does it mean if the government separates the judges from the people who run the government?",
+    "merged_ids": [1091, 1092]
+  },
+  {
+    "id": 1093,
+    "question": "What does the government do to help keep peace between different countries?",
+    "merged_ids": [1093, 1094]
+  },
+  {
+    "id": 1099,
+    "question": "What happens if the President of India misuses his power?",
+    "merged_ids": [1099, 1100, 1111, 1112, 1115, 1148, 1881]
+  },
+  {
+    "id": 1101,
+    "question": "How are the President and the members of Parliament chosen in India?",
+    "merged_ids": [1101, 1793, 1794, 1795]
+  },
+  {
+    "id": 1103,
+    "question": "What happens if someone is caught cheating during an election?",
+    "merged_ids": [1103, 1155, 1163, 1345, 1369, 1383, 1561, 1562, 1575, 1786, 1797, 1798, 1831, 2245, 2246]
+  },
+  {
+    "id": 1106,
+    "question": "Can a President resign from office whenever they want?",
+    "merged_ids": [1106, 1117, 1118, 1123]
+  },
+  {
+    "id": 1107,
+    "question": "Can a person who has already been President run for the job again?",
+    "merged_ids": [1107, 1946]
+  },
+  {
+    "id": 1109,
+    "question": "Can anyone run for President of India, or are there special rules?",
+    "merged_ids": [1109, 1110, 1161, 1162, 1321, 1322, 1354]
+  },
+  {
+    "id": 1119,
+    "question": "What does the Vice-President of India do if the President is not able to perform their duties?",
+    "merged_ids": [1119, 1133, 1134, 1176, 1251, 1252, 1327, 1328]
+  },
+  {
+    "id": 1120,
+    "question": "Can the Vice-President be removed from office, and if so, how does that happen?",
+    "merged_ids": [1120, 1128, 1129, 1130]
+  },
+  {
+    "id": 1121,
+    "question": "What happens if the Vice-President also takes on another job while serving?",
+    "merged_ids": [1121, 1122, 1323, 1324]
+  },
+  {
+    "id": 1125,
+    "question": "What happens if someone is elected Vice-President but is already a member of Parliament?",
+    "merged_ids": [1125, 1126, 1387, 1388]
+  },
+  {
+    "id": 1135,
+    "question": "What happens if someone is elected as President or Vice-President but their election is found to be invalid?",
+    "merged_ids": [1135, 1136]
+  },
+  {
+    "id": 1137,
+    "question": "What happens if someone is sentenced to death for a crime?",
+    "merged_ids": [1137, 1138, 1330]
+  },
+  {
+    "id": 1141,
+    "question": "What happens if the Prime Minister gives bad advice to the President?",
+    "merged_ids": [1141, 1142, 1862]
+  },
+  {
+    "id": 1144,
+    "question": "Can the President remove a Minister from their position at any time?",
+    "merged_ids": [1144, 1336]
+  },
+  {
+    "id": 1149,
+    "question": "What does the Prime Minister have to tell the President about government decisions?",
+    "merged_ids": [1149, 1150]
+  },
+  {
+    "id": 1157,
+    "question": "What happens to the number of seats in the government after a census is done?",
+    "merged_ids": [1157, 1158, 1352, 2239, 2240]
+  },
+  {
+    "id": 1165,
+    "question": "Can the President of India send messages to the Parliament about important issues?",
+    "merged_ids": [1165, 1343, 1358]
+  },
+  {
+    "id": 1169,
+    "question": "Can a Minister or the Attorney-General be part of the discussions in Parliament?",
+    "merged_ids": [1169, 1170, 1361, 1362]
+  },
+  {
+    "id": 1173,
+    "question": "What happens if a member of the Council of States stops being a member?",
+    "merged_ids": [1173, 1174, 1364, 1366, 1368, 1370, 1374, 1377, 1378]
+  },
+  {
+    "id": 1179,
+    "question": "Who chooses the Speaker and Deputy Speaker in the House of the People?",
+    "merged_ids": [1179, 1180]
+  },
+  {
+    "id": 1185,
+    "question": "What happens if someone in power tries to remove a Speaker or Deputy Speaker from their position?",
+    "merged_ids": [1185, 1186]
+  },
+  {
+    "id": 1187,
+    "question": "What kind of money do the leaders of our government get paid?",
+    "merged_ids": [1187, 1205, 1380, 1398, 2003, 2004, 2028, 2033, 2034, 2247, 2251, 2363, 2369]
+  },
+  {
+    "id": 1191,
+    "question": "What happens if a member of Parliament doesn't take their oath before starting their job?",
+    "merged_ids": [1191, 1193, 1201, 1202, 1385, 1393, 1394]
+  },
+{
+    "id": 1195,
+    "question": "What happens if a member of Parliament is found guilty of taking a bribe or breaking the law?",
+    "merged_ids": [1195, 1199, 1200, 1391, 1392, 1529, 1984, 1991, 1992, 1994]
+  },
+  {
+    "id": 1203,
+    "question": "What protections do members of Parliament have if they say something controversial during a debate?",
+    "merged_ids": [1203, 1204, 1395, 1396]
+  },
+  {
+    "id": 1221,
+    "question": "What happens if the government spends money without approval from the Parliament?",
+    "merged_ids": [1221, 1693]
+  },
+  {
+    "id": 1223,
+    "question": "What happens if the government runs out of money for important services during the year?",
+    "merged_ids": [1223, 1224]
+  },
+  {
+    "id": 1235,
+    "question": "Can a judge be removed from their position if they do something wrong?",
+    "merged_ids": [1235, 1244, 1246, 1248, 1249, 1250, 1256, 1440, 1442, 1444, 1456, 1460, 1472, 1486, 1940, 2019, 2020, 2025, 2026, 2027, 2043, 2044, 2047]
+  },
+  {
+    "id": 1237,
+    "question": "What happens if someone in Parliament breaks the rules while making laws?",
+    "merged_ids": [1237, 1238, 1399, 1431, 1432, 1433]
+  },
+  {
+    "id": 1247,
+    "question": "Can the government change the way judges are appointed in India?",
+    "merged_ids": [1247, 1479, 1480, 1481, 1482]
+  },
+  {
+    "id": 1255,
+    "question": "Can retired judges be asked to work again, and do they get paid for it?",
+    "merged_ids": [1255, 1457]
+  },
+  {
+    "id": 1257,
+    "question": "What can happen if someone disobeys a court order?",
+    "merged_ids": [1257, 1258, 1289, 1436, 1437, 2445, 2446]
+  },
+  {
+    "id": 1259,
+    "question": "Where does the Supreme Court meet, and can it change locations?",
+    "merged_ids": [1259, 2258]
+  },
+  {
+    "id": 1265,
+    "question": "What happens if someone is wrongly accused of a crime and goes to court?",
+    "merged_ids": [1265, 1269, 1275, 1283, 2047, 2537]
+  },
+  {
+    "id": 1276,
+    "question": "Can the Supreme Court help if I feel my rights are being violated by the government?",
+    "merged_ids": [1276, 1282, 1284, 1290]
+  },
+  {
+    "id": 1278,
+    "question": "Can the Supreme Court change its own decisions if they made a mistake?",
+    "merged_ids": [1278, 2258]
+  },
+  {
+    "id": 1292,
+    "question": "Can the President ask the Supreme Court for advice on important legal questions?",
+    "merged_ids": [1292, 2129]
+  },
+  {
+    "id": 1295,
+    "question": "What happens if someone does something illegal that goes against the Constitution?",
+    "merged_ids": [1295, 1967]
+  },
+  {
+    "id": 1300,
+    "question": "Can a public servant be held accountable for misusing their power for personal gain?",
+    "merged_ids": [1300, 1664, 1752, 1886, 2050, 2154]
+  },
+  {
+    "id": 1304,
+    "question": "Can the President remove the Comptroller and Auditor-General from their position?",
+    "merged_ids": [1304, 1318]
+  },
+  {
+    "id": 1308,
+    "question": "Can the President change how the government keeps its financial records?",
+    "merged_ids": [1308, 1559, 1560, 1527, 1528]
+  },
+  {
+    "id": 1313,
+    "question": "Can a Governor be in charge of more than one State at the same time?",
+    "merged_ids": [1313, 2102]
+  },
+  {
+    "id": 1315,
+    "question": "What does the Governor of a State do in India?",
+    "merged_ids": [1315, 1316]
+  },
+  {
+    "id": 1317,
+    "question": "Who decides who becomes the Governor of a State in India?",
+    "merged_ids": [1317, 1318]
+  },
+  {
+    "id": 1319,
+    "question": "How long does a Governor stay in office?",
+    "merged_ids": [1319, 1320]
+  },
+  {
+    "id": 1334,
+    "question": "Can the Governor make decisions without the advice of the Council of Ministers?",
+    "merged_ids": [1334, 1492, 2102]
+  },
+  {
+    "id": 1338,
+    "question": "Can the Governor of a State remove the Advocate-General for any reason?",
+    "merged_ids": [1338, 1730]
+  },
+  {
+    "id": 1344,
+    "question": "How many Houses are there in the Legislature of a State?",
+    "merged_ids": [1344, 1517, 1518, 1549, 1550]
+  },
+  {
+    "id": 1365,
+    "question": "What happens if someone in power makes a law that harms people's rights?",
+    "merged_ids": [1365, 1367, 1469, 1608, 1629, 1630]
+  },
+  {
+    "id": 1386,
+    "question": "Can a member of the legislature still make decisions if there are empty seats in the House?",
+    "merged_ids": [1386, 1813, 1814]
+  },
+  {
+    "id": 1389,
+    "question": "What happens if someone is found guilty of committing tax fraud?",
+    "merged_ids": [1389, 2515, 2523]
+  },
+  {
+    "id": 1409,
+    "question": "What happens if someone passes a law that is unfair or harmful to people?",
+    "merged_ids": [1409, 1748]
+  },
+  {
+    "id": 1447,
+    "question": "What happens if someone who used to be a judge tries to represent a client in a regular court?",
+    "merged_ids": [1447, 1448]
+  },
+  {
+    "id": 1452,
+    "question": "Can a judge be moved from one court to another, and does it affect their pay?",
+    "merged_ids": [1452, 2022, 2023, 2024]
+  },
+  {
+    "id": 1453,
+    "question": "What happens if the Chief Justice of a High Court is unable to do their job?",
+    "merged_ids": [1453, 1454]
+  },
+  {
+    "id": 1485,
+    "question": "What happens if someone is wrongly punished by the court?",
+    "merged_ids": [1485, 2304]
+  },
+  {
+    "id": 1497,
+    "question": "What can happen if the government is not able to run properly in a city?",
+    "merged_ids": [1497, 1498, 1895, 1896]
+  },
+  {
+    "id": 1499,
+    "question": "What happens if a government official makes a law without the legislature's approval?",
+    "merged_ids": [1499, 1500, 1872]
+  },
+  {
+    "id": 1510,
+    "question": "Can the Gram Sabha help us if we feel our rights are being violated?",
+    "merged_ids": [1510, 1512, 1826]
+  },
+  {
+    "id": 1514,
+    "question": "Can I be punished for not following the rules set by local government officials?",
+    "merged_ids": [1514, 1590]
+  },
+  {
+    "id": 1521,
+    "question": "What powers do local governments have to help people in their communities?",
+    "merged_ids": [1521, 1553, 1554]
+  },
+  {
+    "id": 1524,
+    "question": "Can a Panchayat charge me extra fees for services that should be free?",
+    "merged_ids": [1524, 1681]
+  },
+  {
+    "id": 1525,
+    "question": "What does the government do to help local councils manage their money better?",
+    "merged_ids": [1525, 1526, 1692]
+  },
+  {
+    "id": 1532,
+    "question": "Can the President change the rules for a Union territory whenever they want?",
+    "merged_ids": [1532, 1564, 1972, 1974]
+  },
+  {
+    "id": 1535,
+    "question": "What happens to the local government if the rules change after the Constitution is updated?",
+    "merged_ids": [1535, 1573, 1574, 1602]
+  },
+  {
+    "id": 1537,
+    "question": "What can I do if I think a local election was unfair?",
+    "merged_ids": [1537, 1538, 1575, 1576]
+  },
+  {
+    "id": 1541,
+    "question": "What happens if someone builds a house without permission from the local government?",
+    "merged_ids": [1541, 2318, 2360]
+  },
+  {
+    "id": 1543,
+    "question": "What happens if someone is elected but doesn't do their job properly?",
+    "merged_ids": [1543, 1583, 1585, 1586]
+  },
+  {
+    "id": 1544,
+    "question": "Can a person who has special knowledge help make decisions in a Municipality?",
+    "merged_ids": [1544, 1811]
+  },
+  {
+    "id": 1551,
+    "question": "Can someone be stopped from being a member of a local government because of their age?",
+    "merged_ids": [1551, 1552]
+  },
+  {
+    "id": 1565,
+    "question": "What happens if someone takes land from a tribal area without permission?",
+    "merged_ids": [1565, 2079, 2080, 2081, 2082]
+  },
+  {
+    "id": 1566,
+    "question": "Can a local council change rules that affect how people live in their region?",
+    "merged_ids": [1566, 1603, 1604]
+  },
+  {
+    "id": 1589,
+    "question": "What rules are there about how often co-operative societies need to hold their meetings?",
+    "merged_ids": [1589, 1591, 1592, 1601]
+  },
+  {
+    "id": 1596,
+    "question": "Can a company owner be punished if they don't pay their employees' dues on time?",
+    "merged_ids": [1596, 2434]
+  },
+  {
+    "id": 1607,
+    "question": "What happens if someone breaks a law made by Parliament?",
+    "merged_ids": [1607, 1608, 1971]
+  },
+  {
+    "id": 1609,
+    "question": "What laws are there to protect me if someone tries to cheat me out of my money?",
+    "merged_ids": [1609, 1627, 2193, 2194, 2427, 2428, 2481]
+  },
+  {
+    "id": 1613,
+    "question": "Can the government create new courts to deal with specific laws?",
+    "merged_ids": [1613, 2261, 2262]
+  },
+  {
+    "id": 1617,
+    "question": "What happens if the government raises taxes on essential goods suddenly?",
+    "merged_ids": [1617, 1619, 1620, 1669, 1670]
+  },
+  {
+    "id": 1621,
+    "question": "What happens if a state law goes against a law made by the Parliament of India?",
+    "merged_ids": [1621, 1622, 1624]
+  },
+  {
+    "id": 1623,
+    "question": "Can the government make laws that apply to more than one state if they agree on it?",
+    "merged_ids": [1623, 1639]
+  },
+  {
+    "id": 1625,
+    "question": "What can happen if someone breaks a law that goes against an international agreement?",
+    "merged_ids": [1625, 2130, 2131, 2132]
+  },
+  {
+    "id": 1631,
+    "question": "What happens if a state government refuses to follow a law made by Parliament?",
+    "merged_ids": [1631, 1632]
+  },
+  {
+    "id": 1635,
+    "question": "What can happen if someone uses their power to harm others or take advantage of them?",
+    "merged_ids": [1635, 1727, 1734, 2435]
+  },
+  {
+    "id": 1636,
+    "question": "Can the government send in the army to help during a natural disaster or a riot?",
+    "merged_ids": [1636, 2107, 2108, 2299, 2300]
+  },
+  {
+    "id": 1644,
+    "question": "Can the government take action if someone is cheating on their taxes?",
+    "merged_ids": [1644, 1654, 2390]
+  },
+  {
+    "id": 1645,
+    "question": "What happens if someone gets a final court decision against me in India?",
+    "merged_ids": [1645, 1646]
+  },
+  {
+    "id": 1647,
+    "question": "What can I do if someone is using a river's water unfairly?",
+    "merged_ids": [1647, 1648, 2213, 2214]
+  },
+  {
+    "id": 1649,
+    "question": "What should I do if I see someone being treated unfairly by the police?",
+    "merged_ids": [1649, 2301]
+  },
+  {
+    "id": 1651,
+    "question": "What does the Finance Commission do in the Indian Constitution?",
+    "merged_ids": [1651, 1652]
+  },
+  {
+    "id": 1653,
+    "question": "Why can't the government just take our money whenever they want?",
+    "merged_ids": [1653, 1654, 2174]
+  },
+  {
+    "id": 1660,
+    "question": "Can a state government keep money from certain taxes instead of sending it to the central government?",
+    "merged_ids": [1660, 1673, 1674]
+  },
+  {
+    "id": 1703,
+    "question": "What happens if someone doesn't pay their electricity bill?",
+    "merged_ids": [1703, 2391, 2501, 2502]
+  },
+  {
+    "id": 1705,
+    "question": "What happens if someone refuses to pay a tax that the government says is unfair?",
+    "merged_ids": [1705, 1706]
+  },
+  {
+    "id": 1709,
+    "question": "What happens to my pension if I served in a state and funds come from central government?",
+    "merged_ids": [1709, 1710, 2371, 2372]
+  },
+  {
+    "id": 1715,
+    "question": "What does the government need to do if it wants to borrow money for public projects?",
+    "merged_ids": [1715, 1716, 1717, 1718, 2175, 2176]
+  },
+  {
+    "id": 1721,
+    "question": "What happens to property owned by a state when the Constitution comes into effect?",
+    "merged_ids": [1721, 1722]
+  },
+  {
+    "id": 1725,
+    "question": "What happens if someone takes something valuable from the ocean without permission?",
+    "merged_ids": [1725, 1726, 2215, 2216, 2333, 2334]
+  },
+  {
+    "id": 1728,
+    "question": "Can the government take action against a business that is cheating its customers?",
+    "merged_ids": [1728, 2188, 2189, 2190, 2465, 2466]
+  },
+  {
+    "id": 1729,
+    "question": "What happens if someone makes a contract that isn't approved by the government?",
+    "merged_ids": [1729, 1730, 2123, 2429, 2430]
+  },
+  {
+    "id": 1735,
+    "question": "What does it mean for trade and commerce to be free in India?",
+    "merged_ids": [1735, 1736, 1737, 1739, 2183, 2184, 2185, 2186, 2343, 2344]
+  },
+  {
+    "id": 1741,
+    "question": "What can happen if a state charges extra tax on goods from other states?",
+    "merged_ids": [1741, 1742, 1701, 2285, 2286, 2287]
+  },
+  {
+    "id": 1751,
+    "question": "What are the rules for hiring people for government jobs in India?",
+    "merged_ids": [1751, 1767, 1779, 1780]
+  },
+  {
+    "id": 1759,
+    "question": "Can the government change the rules for civil servant pay after they've started working?",
+    "merged_ids": [1759, 1760]
+  },
+  {
+    "id": 1761,
+    "question": "What happens to laws that were in place before the Constitution came into effect?",
+    "merged_ids": [1761, 1762, 1889, 1890]
+  },
+  {
+    "id": 1779,
+    "question": "What happens to the expenses of public service commissions in India?",
+    "merged_ids": [1779, 1780, 2415, 2416]
+  },
+  {
+    "id": 1803,
+    "question": "What does the law say about reserving seats for women in government?",
+    "merged_ids": [1803, 1804]
+  },
+  {
+    "id": 1805,
+    "question": "How can I get help if my community is not being heard in government decisions?",
+    "merged_ids": [1805, 1806, 1811]
+  },
+  {
+    "id": 1821,
+    "question": "What support does the Constitution provide for Anglo-Indian community education?",
+    "merged_ids": [1821, 1822]
+  },
+  {
+    "id": 1829,
+    "question": "What does the government do to help tribal communities in India?",
+    "merged_ids": [1829, 1830, 2069, 2070, 2071, 2072, 2073]
+  },
+  {
+    "id": 1832,
+    "question": "Is it legal for a police officer to search my home without a warrant?",
+    "merged_ids": [1832, 1036, 1462]
+  },
+  {
+    "id": 1835,
+    "question": "What happens if someone from a Scheduled Tribe is treated unfairly?",
+    "merged_ids": [1835, 1836, 2083, 2084]
+  },
+  {
+    "id": 1839,
+    "question": "What language will be used for official government work in India?",
+    "merged_ids": [1839, 1840, 1843, 1844]
+  },
+  {
+    "id": 1861,
+    "question": "What can happen if the government declares a national emergency?",
+    "merged_ids": [1861, 1863, 1864, 1865, 1866, 1867, 1868, 1869, 1870, 1873, 1874, 1875, 1876, 1879, 1880]
+  },
+  {
+    "id": 1891,
+    "question": "What happens to the money and benefits of former Indian rulers after Constitution changes?",
+    "merged_ids": [1891, 1892]
+  },
+  {
+    "id": 1893,
+    "question": "What happens if someone breaks the law in a major port or airport?",
+    "merged_ids": [1893, 1894, 2145, 2146, 2161, 2162, 2259]
+  },
+  {
+    "id": 1907,
+    "question": "What special responsibilities does the Governor have for Maharashtra and Gujarat?",
+    "merged_ids": [1907, 1908]
+  },
+  {
+    "id": 1921,
+    "question": "What happens if someone breaks the law based on Mizo customary practices?",
+    "merged_ids": [1921, 1922]
+  },
+  {
+    "id": 1923,
+    "question": "What can happen to someone who breaks the law in Arunachal Pradesh?",
+    "merged_ids": [1923, 1924]
+  },
+  {
+    "id": 1927,
+    "question": "What happens if someone is unfairly denied a job because of their background?",
+    "merged_ids": [1927, 1928]
+  },
+  {
+    "id": 1933,
+    "question": "What can happen if someone is held without trial for a long time?",
+    "merged_ids": [1933, 1934, 2121, 2122, 2421, 2422, 2423, 2424]
+  },
+  {
+    "id": 1938,
+    "question": "Can a judge be held responsible if they make a wrong decision that harms someone?",
+    "merged_ids": [1938, 1488, 2304, 2043]
+  },
+  {
+    "id": 1973,
+    "question": "What happens if someone is unfairly removed from their job by the government?",
+    "merged_ids": [1973, 1974]
+  },
+  {
+    "id": 1982,
+    "question": "Can the police arrest someone without a good reason?",
+    "merged_ids": [1982, 2536]
+  },
+  {
+    "id": 1985,
+    "question": "What happens if a politician changes their party after being elected?",
+    "merged_ids": [1985, 1989]
+  },
+  {
+    "id": 2007,
+    "question": "What happens if someone pretends to be the President or Governor without being elected?",
+    "merged_ids": [2007, 1143]
+  },
+  {
+    "id": 2085,
+    "question": "What does it mean if someone lives in a Scheduled Area in India?",
+    "merged_ids": [2085, 2086, 2087, 2088, 2089, 2090, 2093, 2094, 2095, 2096, 2097]
+  },
+  {
+    "id": 2109,
+    "question": "What rules are there for local governments in my area?",
+    "merged_ids": [2109, 2110]
+  },
+  {
+    "id": 2113,
+    "question": "What are the rules about owning guns and explosives in India?",
+    "merged_ids": [2113, 2114]
+  },
+  {
+    "id": 2115,
+    "question": "What rules are there about using atomic energy and its resources in India?",
+    "merged_ids": [2115, 2116]
+  },
+  {
+    "id": 2117,
+    "question": "What does the government do if someone is caught stealing from the army?",
+    "merged_ids": [2117, 2118]
+  },
+  {
+    "id": 2126,
+    "question": "Can a foreign country send its representatives to India?",
+    "merged_ids": [2126, 2138]
+  },
+  {
+    "id": 2135,
+    "question": "What happens if someone commits a crime in another country but is from India?",
+    "merged_ids": [2135, 2139]
+  },
+  {
+    "id": 2141,
+    "question": "What do I need to do if I want to move to another country from India?",
+    "merged_ids": [2141, 2142]
+  },
+  {
+    "id": 2143,
+    "question": "Can the government stop me from going on a pilgrimage outside India?",
+    "merged_ids": [2143, 2144, 2311, 2312]
+  },
+  {
+    "id": 2149,
+    "question": "What does it mean when a road is called a national highway?",
+    "merged_ids": [2149, 2150]
+  },
+  {
+    "id": 2151,
+    "question": "What are the rules for using boats on national waterways?",
+    "merged_ids": [2151, 2163, 2164, 2487]
+  },
+  {
+    "id": 2155,
+    "question": "What happens if someone damages a lighthouse or navigational aid?",
+    "merged_ids": [2155, 2156]
+  },
+  {
+    "id": 2157,
+    "question": "What are the rules for how ports in India are managed?",
+    "merged_ids": [2157, 2158, 2489]
+  },
+  {
+    "id": 2159,
+    "question": "What happens if someone spreads a dangerous disease on purpose?",
+    "merged_ids": [2159, 2160, 2481]
+  },
+  {
+    "id": 2171,
+    "question": "What does it mean if the government owes money and how does it affect me?",
+    "merged_ids": [2171, 2373, 2374]
+  },
+  {
+    "id": 2173,
+    "question": "What happens if someone uses fake money to buy something?",
+    "merged_ids": [2173, 2174]
+  },
+  {
+    "id": 2181,
+    "question": "Can the government run a lottery and make money from it?",
+    "merged_ids": [2181, 2182]
+  },
+  {
+    "id": 2187,
+    "question": "What rules are there for starting and closing a business like a bank?",
+    "merged_ids": [2187, 2188, 2189, 2190, 2353, 2354]
+  },
+  {
+    "id": 2195,
+    "question": "What happens if someone refuses to pay their insurance premium?",
+    "merged_ids": [2195, 2196]
+  },
+  {
+    "id": 2197,
+    "question": "What rules are there about stock exchanges and futures markets?",
+    "merged_ids": [2197, 2198]
+  },
+  {
+    "id": 2199,
+    "question": "What can I do if someone copies my invention or artwork without permission?",
+    "merged_ids": [2199, 2200]
+  },
+  {
+    "id": 2201,
+    "question": "What are the rules about measuring things like food and goods in India?",
+    "merged_ids": [2201, 2202, 2491, 2492]
+  },
+  {
+    "id": 2203,
+    "question": "What happens if a company sells a product that doesn't meet quality standards?",
+    "merged_ids": [2203, 2457, 2458, 2489]
+  },
+  {
+    "id": 2206,
+    "question": "Can the government take control of certain industries for the public good?",
+    "merged_ids": [2206, 1744]
+  },
+  {
+    "id": 2207,
+    "question": "What are the rules about drilling for oil and gas in my area?",
+    "merged_ids": [2207, 2208, 2209, 2210, 2337, 2338]
+  },
+  {
+    "id": 2211,
+    "question": "What protections do workers in mines and oilfields have if hurt on the job?",
+    "merged_ids": [2211, 2212]
+  },
+  {
+    "id": 2217,
+    "question": "What rules are there about how salt is made and sold in India?",
+    "merged_ids": [2217, 2218]
+  },
+  {
+    "id": 2219,
+    "question": "What does the law say about growing or selling opium?",
+    "merged_ids": [2219, 2220, 2389, 2390, 2459, 2460]
+  },
+  {
+    "id": 2221,
+    "question": "What happens if someone makes a movie that is offensive or harmful?",
+    "merged_ids": [2221, 2222]
+  },
+  {
+    "id": 2225,
+    "question": "What does the Constitution say about funding important national institutions?",
+    "merged_ids": [2225, 2226]
+  },
+  {
+    "id": 2233,
+    "question": "What does the Constitution say about quality of education in colleges?",
+    "merged_ids": [2233, 2234, 2473, 2474]
+  },
+  {
+    "id": 2241,
+    "question": "What happens if someone doesn't fill out the census form?",
+    "merged_ids": [2239, 2240]
+  },
+  {
+    "id": 2250,
+    "question": "Do members of Parliament have special rights that protect them from questioning?",
+    "merged_ids": [2250, 1203, 1204]
+  },
+  {
+    "id": 2263,
+    "question": "What happens if someone has to follow different quarantine rules in another state?",
+    "merged_ids": [2263, 2264]
+  },
+  {
+    "id": 2267,
+    "question": "What happens if someone tries to smuggle goods without paying proper taxes?",
+    "merged_ids": [2267, 2268]
+  },
+  {
+    "id": 2277,
+    "question": "What happens to my property if I pass away without a will?",
+    "merged_ids": [2277, 1723, 2375]
+  },
+  {
+    "id": 2279,
+    "question": "What are the rules about taxes on train or plane tickets?",
+    "merged_ids": [2279, 2280, 2395, 2396]
+  },
+  {
+    "id": 2303,
+    "question": "What happens if someone doesn't pay their rent on time?",
+    "merged_ids": [2303, 2335]
+  },
+  {
+    "id": 2305,
+    "question": "What happens to someone who breaks the law and ends up in prison?",
+    "merged_ids": [2305, 2306]
+  },
+  {
+    "id": 2313,
+    "question": "What are the rules about making and selling alcoholic drinks in India?",
+    "merged_ids": [2313, 2393, 2394]
+  },
+  {
+  "id": 2315,
+  "question": "What kind of help can disabled people get from the government?",
+  "merged_ids": [2315, 2316]
+  },
+  {
+  "id": 2317,
+  "question": "What rules are there about where we can bury or cremate our loved ones?",
+  "merged_ids": [2317, 2318]
+  },
+  {
+  "id": 2327,
+  "question": "What can I do if my neighbor's cattle keep coming into my yard and causing damage?",
+  "merged_ids": [2327, 2399, 2400]
+  },
+  {
+  "id": 2339,
+  "question": "What happens if someone illegally digs for minerals without permission?",
+  "merged_ids": [2339, 2340, 2387, 2388]
+  },
+  {
+  "id": 2341,
+  "question": "What are the rules for companies that provide gas services in our country?",
+  "merged_ids": [2341, 2342]
+  },
+  {
+  "id": 2345,
+  "question": "What does the Constitution say about fair distribution of goods in the country?",
+  "merged_ids": [2345, 2346, 2493, 2494]
+  },
+  {
+  "id": 2347,
+  "question": "What rules are there about setting up a market or fair in my town?",
+  "merged_ids": [2347, 2348]
+  },
+  {
+  "id": 2349,
+  "question": "What can I do if I'm in debt and being harassed by money lenders?",
+  "merged_ids": [2349, 2350, 2083, 2084]
+  },
+  {
+  "id": 2351,
+  "question": "What are the rules for running an inn?",
+  "merged_ids": [2351, 2352]
+  },
+  {
+  "id": 2355,
+  "question": "What laws protect my right to watch movies or attend sports events?",
+  "merged_ids": [2355, 2356, 2407, 2408]
+  },
+  {
+  "id": 2357,
+  "question": "What are the rules about betting and gambling in India?",
+  "merged_ids": [2357, 2358]
+  },
+  {
+  "id": 2359,
+  "question": "What happens if someone uses government land for personal gain without permission?",
+  "merged_ids": [2359, 2360, 2507, 2508, 2509, 2510]
+  },
+  {
+  "id": 2361,
+  "question": "What happens if someone tries to vote but isn't registered?",
+  "merged_ids": [2361, 1561, 1562]
+  },
+  {
+  "id": 2378,
+  "question": "What happens if someone doesn't pay their land taxes?",
+  "merged_ids": [2378, 2381, 2383]
+  },
+  {
+  "id": 2401,
+  "question": "What happens if someone doesn't pay their tolls on the highway?",
+  "merged_ids": [2401, 2402]
+  },
+  {
+  "id": 2425,
+  "question": "What does the Constitution say about getting married or divorced?",
+  "merged_ids": [2425, 2426]
+  },
+  {
+  "id": 2433,
+  "question": "What happens if someone can't pay their debts and goes bankrupt?",
+  "merged_ids": [2433, 2434]
+  },
+  {
+  "id": 2436,
+  "question": "Can a person be punished for not following the rules of a trust they manage?",
+  "merged_ids": [2436, 2479, 2480]
+  },
+  {
+  "id": 2447,
+  "question": "What happens if someone is caught wandering without a home or job?",
+  "merged_ids": [2447, 2448]
+  },
+  {
+  "id": 2449,
+  "question": "What happens if someone is not treated fairly because they have a mental illness?",
+  "merged_ids": [2449, 2450]
+  },
+  {
+  "id": 2463,
+  "question": "What does the Constitution say about how families can plan their size?",
+  "merged_ids": [2463, 2464]
+  },
+  {
+  "id": 2467,
+  "question": "What rights do workers have if they want to form a union?",
+  "merged_ids": [2467, 2468]
+  },
+  {
+  "id": 2475,
+  "question": "What happens if someone lies in court or gives false information to the police?",
+  "merged_ids": [2475, 2476]
+  },
+  {
+  "id": 2477,
+  "question": "What happens to people who had to leave their homes because of partition?",
+  "merged_ids": [2477, 2478]
+  },
+  {
+  "id": 2483,
+  "question": "What happens if someone doesn't register a birth or death in my family?",
+  "merged_ids": [2483, 2484]
+  },
+  {
+  "id": 2495,
+  "question": "What are the rules for taxes on vehicles I own?",
+  "merged_ids": [2495, 2496]
+  },
+  {
+  "id": 2499,
+  "question": "What are the consequences if someone uses a boiler that is not safe?",
+  "merged_ids": [2499, 2500]
+  },
+  {
+  "id": 2503,
+  "question": "What can happen if someone spreads false information in a newspaper?",
+  "merged_ids": [2503, 2504]
+  }
+  ]
