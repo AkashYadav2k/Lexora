@@ -76,7 +76,7 @@ elif page == "app":
 # -------------------------------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATIC_DIR = os.path.join(BASE_DIR, "static")
-IMAGES_DIR = os.path.join(STATIC_DIR, "images")
+IMAGES_DIR = os.path.join(STATIC_DIR, "Images")
 
 # -------------------------------------------------
 # Helper function to encode images
@@ -256,13 +256,13 @@ if os.path.exists(html_path):
         
         # Replace all image references with base64
         image_mappings = {
-            "images/courthouse.png": os.path.join(IMAGES_DIR, "courthouse.png"),
-            "images/jg1.png": os.path.join(IMAGES_DIR, "jg1.png"),
-            "images/jg2.png": os.path.join(IMAGES_DIR, "jg2.png"),
-            "images/demon.png": os.path.join(IMAGES_DIR, "demon.png"),
-            "images/review.png": os.path.join(IMAGES_DIR, "review.png"),
-            "images/review2.png": os.path.join(IMAGES_DIR, "review2.png"),
-            "images/review3.png": os.path.join(IMAGES_DIR, "review3.png"),
+            "Images/courthouse.png": os.path.join(IMAGES_DIR, "courthouse.png"),
+            "Images/jg1.png": os.path.join(IMAGES_DIR, "jg1.png"),
+            "Images/jg2.png": os.path.join(IMAGES_DIR, "jg2.png"),
+            "Images/demon.png": os.path.join(IMAGES_DIR, "demon.png"),
+            "Images/review.png": os.path.join(IMAGES_DIR, "review.png"),
+            "Images/review2.png": os.path.join(IMAGES_DIR, "review2.png"),
+            "Images/review3.png": os.path.join(IMAGES_DIR, "review3.png"),
         }
         
         # Replace each image source with base64
